@@ -1100,8 +1100,9 @@
       "id": "OL1915651W",
       "original": "The TeXbook",
       "before": "教材",
-      "after": "TeX程序设计",
-      "method": "reference"
+      "after": "TeX排版指南",
+      "method": "reference",
+      "source": "https://www-cs-faculty.stanford.edu/~knuth/abcde.html"
     },
     {
       "id": "OL675722W",
