@@ -1,0 +1,194 @@
+[
+  {
+    "slug": "fiction",
+    "name": "Fiction & Literature",
+    "n": 3273,
+    "cn": "小说与文学"
+  },
+  {
+    "slug": "politics-society",
+    "name": "Politics & Society",
+    "n": 1610,
+    "cn": "政治与社会"
+  },
+  {
+    "slug": "biography",
+    "name": "Biography & Memoir",
+    "n": 1378,
+    "cn": "传记与回忆录"
+  },
+  {
+    "slug": "programming",
+    "name": "Programming",
+    "n": 1279,
+    "cn": "编程"
+  },
+  {
+    "slug": "psychology",
+    "name": "Psychology & Behavior",
+    "n": 1175,
+    "cn": "心理与行为"
+  },
+  {
+    "slug": "business",
+    "name": "Business & Management",
+    "n": 1114,
+    "cn": "商业与管理"
+  },
+  {
+    "slug": "science-fiction",
+    "name": "Science Fiction",
+    "n": 1093,
+    "cn": "科幻"
+  },
+  {
+    "slug": "history",
+    "name": "History",
+    "n": 1073,
+    "cn": "历史"
+  },
+  {
+    "slug": "economics",
+    "name": "Economics & Finance",
+    "n": 1023,
+    "cn": "经济与金融"
+  },
+  {
+    "slug": "biology",
+    "name": "Biology & Medicine",
+    "n": 942,
+    "cn": "生物与医学"
+  },
+  {
+    "slug": "other",
+    "name": "Other",
+    "n": 884,
+    "cn": "其他"
+  },
+  {
+    "slug": "math",
+    "name": "Mathematics",
+    "n": 878,
+    "cn": "数学"
+  },
+  {
+    "slug": "philosophy",
+    "name": "Philosophy",
+    "n": 837,
+    "cn": "哲学"
+  },
+  {
+    "slug": "computer-science",
+    "name": "Computer Science",
+    "n": 717,
+    "cn": "计算机科学"
+  },
+  {
+    "slug": "physics",
+    "name": "Physics & Cosmology",
+    "n": 597,
+    "cn": "物理与宇宙"
+  },
+  {
+    "slug": "lifestyle",
+    "name": "Food, Travel & Lifestyle",
+    "n": 568,
+    "cn": "饮食、旅行与生活"
+  },
+  {
+    "slug": "religion",
+    "name": "Religion & Spirituality",
+    "n": 537,
+    "cn": "宗教与精神生活"
+  },
+  {
+    "slug": "design",
+    "name": "Design & UX",
+    "n": 526,
+    "cn": "设计与用户体验"
+  },
+  {
+    "slug": "productivity",
+    "name": "Productivity & Self-Improvement",
+    "n": 522,
+    "cn": "效率与自我提升"
+  },
+  {
+    "slug": "writing",
+    "name": "Writing & Language",
+    "n": 510,
+    "cn": "写作与语言"
+  },
+  {
+    "slug": "fantasy",
+    "name": "Fantasy",
+    "n": 500,
+    "cn": "奇幻"
+  },
+  {
+    "slug": "arts",
+    "name": "Arts, Games & Media",
+    "n": 493,
+    "cn": "艺术、游戏与媒体"
+  },
+  {
+    "slug": "systems",
+    "name": "Systems & OS",
+    "n": 480,
+    "cn": "系统与操作系统"
+  },
+  {
+    "slug": "web",
+    "name": "Web & Internet",
+    "n": 439,
+    "cn": "Web与互联网"
+  },
+  {
+    "slug": "startups",
+    "name": "Startups & Entrepreneurship",
+    "n": 382,
+    "cn": "创业"
+  },
+  {
+    "slug": "popular-science",
+    "name": "Popular Science",
+    "n": 337,
+    "cn": "科普"
+  },
+  {
+    "slug": "software-engineering",
+    "name": "Software Engineering",
+    "n": 328,
+    "cn": "软件工程"
+  },
+  {
+    "slug": "hardware",
+    "name": "Electronics & Hardware",
+    "n": 324,
+    "cn": "电子与硬件"
+  },
+  {
+    "slug": "data-statistics",
+    "name": "Data & Statistics",
+    "n": 321,
+    "cn": "数据与统计"
+  },
+  {
+    "slug": "security",
+    "name": "Security & Privacy",
+    "n": 294,
+    "cn": "安全与隐私"
+  },
+  {
+    "slug": "ai-ml",
+    "name": "AI & Machine Learning",
+    "n": 267,
+    "cn": "人工智能与机器学习"
+  },
+  {
+    "slug": "lisp-functional",
+    "name": "Lisp & Functional",
+    "n": 124,
+    "cn": "Lisp与函数式编程"
+  }
+]

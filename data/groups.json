@@ -1,0 +1,88 @@
+[
+  {
+    "name": "计算机与技术",
+    "intro": "从编程语言、算法，到系统、人工智能与安全。",
+    "topics": [
+      "programming",
+      "software-engineering",
+      "computer-science",
+      "systems",
+      "web",
+      "hardware",
+      "security",
+      "ai-ml",
+      "lisp-functional"
+    ]
+  },
+  {
+    "name": "数学与自然科学",
+    "intro": "理解数理规律、生命与宇宙。",
+    "topics": [
+      "math",
+      "physics",
+      "biology",
+      "data-statistics",
+      "popular-science"
+    ]
+  },
+  {
+    "name": "商业、经济与创业",
+    "intro": "观察组织、市场、创新与创业实践。",
+    "topics": [
+      "business",
+      "economics",
+      "startups"
+    ]
+  },
+  {
+    "name": "思维与个人成长",
+    "intro": "认识心理、改进习惯与日常生活。",
+    "topics": [
+      "psychology",
+      "productivity",
+      "lifestyle"
+    ]
+  },
+  {
+    "name": "历史、政治与社会",
+    "intro": "透过历史与个体经历理解社会。",
+    "topics": [
+      "history",
+      "politics-society",
+      "biography"
+    ]
+  },
+  {
+    "name": "哲学与宗教",
+    "intro": "探索知识、意义与精神世界。",
+    "topics": [
+      "philosophy",
+      "religion"
+    ]
+  },
+  {
+    "name": "文学与想象",
+    "intro": "小说、科幻与奇幻中的世界。",
+    "topics": [
+      "fiction",
+      "science-fiction",
+      "fantasy"
+    ]
+  },
+  {
+    "name": "设计、艺术与表达",
+    "intro": "从视觉与交互到文字、语言和游戏。",
+    "topics": [
+      "design",
+      "arts",
+      "writing"
+    ]
+  },
+  {
+    "name": "其他与待归类",
+    "intro": "原站其他类别；保留原始分类以供检索。",
+    "topics": [
+      "other"
+    ]
+  }
+]
