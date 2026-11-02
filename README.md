@@ -53,10 +53,12 @@
 | 项目 | 数量 | 说明 |
 | --- | ---: | --- |
 | 完整书目 | 15,766 | 按原站作品 ID 保留，未擅自合并同书的不同条目 |
-| 常用中文名 | 559 | 人工整理的常用书名，不指定出版社或 ISBN 版本 |
+| 常用中文名 | 563 | 人工整理的常用书名，不指定出版社或 ISBN 版本 |
 | 中文条目名 | 191 | 辅助匹配对应的中文维基百科条目，可能存在地区译名差异 |
-| 机器暂译 | 14,988 | 未确认通行中文版本名称，明确标注为暂译 |
-| 保留原名 | 28 | 技术专名、纯数字标题等 |
+| 机器暂译 | 14,457 | 未逐项核实中文出版名，详情保留参考译名提示 |
+| 保留原名 | 26 | 技术专名、纯数字标题等，不在书名后添加状态说明 |
+| 中文版本记录 | 140 | 由同作品的中文版本书目取得，保留版本链接 |
+| 内容校订参考译名 | 389 | 结合主题、作者与技术术语校订，不宣称均有中文出版版本 |
 | 关联封面 | 14,456 | 原站提供 13,983 个，按作品 ID 补充 473 个版本封面 |
 | 暂无封面 | 1,310 | 显示清晰标注的排版占位图，不伪造出版封面 |
 
@@ -101,3 +103,11 @@ SOURCES.md             数据来源、匹配方式与权利说明
 感谢 [HackerBooks / roansh](https://hackerbooks.org/#/about)、[Hacker News](https://news.ycombinator.com/) 与 [Open Library](https://openlibrary.org/)。本项目不隶属于上述网站或 Y Combinator。
 
 原创代码以 [MIT License](LICENSE) 提供。第三方书目元数据、书名、评论、封面和截图内的出版物图像不纳入本项目的 MIT 授权，仍遵循各自来源的权利及使用条款，详见 [SOURCES.md](SOURCES.md)。项目宣传封面使用 imagegen 生成，设计提示词保存在 [`branding/cover-prompt.txt`](branding/cover-prompt.txt)。
+
+## 本轮书名校订
+
+已按作品 ID 查询 14,999 个 Open Library 条目，并结合出版资料及作者内容校订高频书目和技术术语。相对上一版，共调整 **500 个显示书名**（包括去掉“原名保留”状态括号）；这不表示全部书名都已人工核实。
+
+具体改动见 [`data/title-review-report.json`](data/title-review-report.json)。中文版本查询缓存保存在 [`data/chinese-editions.json`](data/chinese-editions.json)，按内容校订的对照表在 [`data/title-edits.txt`](data/title-edits.txt)。
+
+需要继续校订时，可运行 `scripts/find_chinese_editions.py` 接续公开元数据查询，再运行 `scripts/revise_titles.py`。后者需要额外安装 `opencc-python-reimplemented`；常规 HTML 构建仍仅依赖 Python 标准库。

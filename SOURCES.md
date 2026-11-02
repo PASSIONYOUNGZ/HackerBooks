@@ -12,12 +12,14 @@
 
 ## 中文书名
 
-- `common`：人工整理的常用中文名，559 个条目。未指定某个出版社版本；部分版本可能有不同译名。
-- `wiki`：由对应的中文维基百科条目取得名称，191 个条目。辅以作者姓名或年份进行匹配，保留可追溯链接，并转换为简体字；条目名不必然等同于大陆出版书名。
-- `machine`：Google 翻译初译后保留为明确标注的机器暂译，14,988 个条目。未确认中文出版版本，可能仍有歧义。
-- `retained`：技术专名、数字名称等保留原名，28 个条目。
-- 部分通行名及出处以作品的 `wiki` 字段记录；该字段作为“译名来源”链接展示，不限于维基百科站点。
-- 数据中的 `t` 是源站条目标题，未声称一定是首次原版书名；`a` 是源站作者列表。
+- 先保留常用中文名和已匹配的中文条目名，再按作品 ID 查询 Open Library 的中文版本。查询共覆盖 14,999 个条目，获得 142 个含中文标题的版本候选；明显乱码、英文影印版标签等不直接采用。
+- 目前 common 563 条、wiki 191 条、edition 140 条、edited 389 条、machine 14457 条、retained 26 条。
+- `edition` 表示同作品中文版本的书目名称，`cn_source` 保留版本链接；仍需留意来源元数据误配及地区版本差异。
+- `edited` 是结合内容与术语校订的参考译名，不代表正式出版名。具体对照见 `data/title-edits.txt`，改动记录见 `data/title-review-report.json`。
+- 无法核实的名字保留原名以便辨认，详情中说明参考译名；不再提供按译名状态筛选，也不在书卡显示状态标签。
+- 出版资料例证：[力量训练基础](https://search.worldcat.org/title/1020336574)、[JavaScript语言精粹](https://phei.com.cn/module/goods/wssd_content.jsp?bookid=33817)、[JavaScript权威指南](https://www.oreilly.com.cn/index.php?func=book&isbn=978-7-111-67722-2)。[Crafting Interpreters 官方内容](https://craftinginterpreters.com/) 用于确认解释器语境；“动手实现解释器”是本页参考译名。
+- 数据中的 `t` 是源站条目标题，未声称一定是首次原版书名；`a` 是源站作者列表。原始书名和作品 ID 保持不变。
+- Accelerando 原站年份 1900 与出版记录不符，依据[出版社页面](https://www.penguinrandomhouse.com/books/294259/accelerando-by-charles-stross/)修正为 2005，原值保存在 `source_y`。
 
 ## 封面
 
@@ -30,7 +32,7 @@
 
 ## 项目身份
 
-页面使用 PassionYoungz 在个人蒸馏项目中提供的公开头像和署名，链接到其 [X 主页](https://x.com/PassionYoungz)。头像仅作项目身份展示；书本图标为本项目的 SVG 标识。
+侧栏底部以“项目开发者”展示 PassionYoungz 的公开头像、署名及社交链接，参考个人蒸馏项目的开发者名片；页首不作个人书架署名。头像仅作项目身份展示；书本图标为本项目的 SVG 标识。
 
 ## 项目宣传封面
 

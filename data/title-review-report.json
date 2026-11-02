@@ -1,0 +1,3455 @@
+{
+  "date": "2026-11-02",
+  "revised_entries": 474,
+  "edition_lookup_checked": 14999,
+  "edition_candidates": 142,
+  "methods": {
+    "original": 15233,
+    "reference": 382,
+    "published": 4,
+    "edition": 140,
+    "terminology": 7
+  },
+  "changes": [
+    {
+      "id": "OL26124818W",
+      "original": "Crafting Interpreters",
+      "before": "制作口译员",
+      "after": "动手实现解释器",
+      "method": "reference",
+      "source": "https://craftinginterpreters.com/"
+    },
+    {
+      "id": "OL19903741W",
+      "original": "Starting strength",
+      "before": "起始强度",
+      "after": "力量训练基础",
+      "method": "published",
+      "source": "https://search.worldcat.org/title/1020336574"
+    },
+    {
+      "id": "OL2465670W",
+      "original": "Accelerando",
+      "before": "加速",
+      "after": "渐速",
+      "method": "reference",
+      "source": "https://www.penguinrandomhouse.com/books/294259/accelerando-by-charles-stross/"
+    },
+    {
+      "id": "OL1168179W",
+      "original": "Politics and the English language",
+      "before": "政治和英语",
+      "after": "政治与英语",
+      "method": "reference"
+    },
+    {
+      "id": "OL16807102W",
+      "original": "Land of Lisp",
+      "before": "口齿不清的土地",
+      "after": "Lisp之地",
+      "method": "reference"
+    },
+    {
+      "id": "OL2685843W",
+      "original": "Effective C++",
+      "before": "有效的C++",
+      "after": "Effective C++：改善程序与设计的55个具体做法",
+      "method": "published",
+      "source": "https://www.sanmin.com.tw/product/index/001475539"
+    },
+    {
+      "id": "OL1821254W",
+      "original": "The E-myth revisited",
+      "before": "重温电子神话",
+      "after": "创业的迷思",
+      "method": "reference"
+    },
+    {
+      "id": "OL2617750W",
+      "original": "The making of the atomic bomb",
+      "before": "原子弹的制造",
+      "after": "原子弹秘史",
+      "method": "reference"
+    },
+    {
+      "id": "OL3269918W",
+      "original": "Lisp in Small Pieces",
+      "before": "Lisp 的小片段",
+      "after": "Lisp实现剖析",
+      "method": "reference"
+    },
+    {
+      "id": "OL88800W",
+      "original": "The Machine Stops",
+      "before": "机器停止",
+      "after": "机器停转",
+      "method": "reference"
+    },
+    {
+      "id": "OL20159801W",
+      "original": "How to Change Your Mind",
+      "before": "如何改变你的想法",
+      "after": "改变你的大脑",
+      "method": "reference"
+    },
+    {
+      "id": "OL16099614W",
+      "original": "Reamde",
+      "before": "雷姆德",
+      "after": "REAMDE：病毒",
+      "method": "reference"
+    },
+    {
+      "id": "OL2413847W",
+      "original": "War is a racket",
+      "before": "战争是一场喧闹",
+      "after": "战争是一门生意",
+      "method": "reference"
+    },
+    {
+      "id": "OL16458108W",
+      "original": "Start Small, Stay Small",
+      "before": "从小处开始，保持小规模",
+      "after": "小步创业，保持精简",
+      "method": "reference"
+    },
+    {
+      "id": "OL19921476W",
+      "original": "Fall; or, Dodge in Hell",
+      "before": "跌倒；或者，躲避地狱",
+      "after": "堕落，或地狱中的道奇",
+      "method": "reference"
+    },
+    {
+      "id": "OL16809886W",
+      "original": "Command and Control",
+      "before": "命令与控制",
+      "after": "指挥与控制",
+      "method": "reference"
+    },
+    {
+      "id": "OL16797804W",
+      "original": "Sustainable Energy - Without the Hot Air",
+      "before": "可持续能源——没有空话",
+      "after": "可持续能源：摆脱空谈",
+      "method": "reference"
+    },
+    {
+      "id": "OL20017105W",
+      "original": "Extreme ownership",
+      "before": "极端所有权",
+      "after": "极致责任",
+      "method": "reference"
+    },
+    {
+      "id": "OL19719691W",
+      "original": "The mind illuminated",
+      "before": "心灵被照亮",
+      "after": "照亮心智",
+      "method": "reference"
+    },
+    {
+      "id": "OL24697326W",
+      "original": "Termination Shock",
+      "before": "终止休克",
+      "after": "终止冲击",
+      "method": "reference"
+    },
+    {
+      "id": "OL15706364W",
+      "original": "The Joy of Clojure",
+      "before": "Clojure 的乐趣",
+      "after": "Clojure编程之乐",
+      "method": "reference"
+    },
+    {
+      "id": "OL20008176W",
+      "original": "Clojure for the Brave and true",
+      "before": "Clojure 为勇敢而真实的人服务",
+      "after": "勇者的Clojure指南",
+      "method": "reference"
+    },
+    {
+      "id": "HBpractical-typography",
+      "original": "Practical Typography",
+      "before": "实用版式",
+      "after": "实用字体排印",
+      "method": "reference"
+    },
+    {
+      "id": "OL38477W",
+      "original": "In the Beginning...Was the Command Line",
+      "before": "一开始...是命令行",
+      "after": "太初有命令行",
+      "method": "reference"
+    },
+    {
+      "id": "OL19547402W",
+      "original": "Effective Modern C++",
+      "before": "有效的现代C++",
+      "after": "Effective Modern C++：改善C++11和C++14程序的42个具体做法",
+      "method": "reference"
+    },
+    {
+      "id": "OL4688490W",
+      "original": "Thinking Forth",
+      "before": "思考",
+      "after": "Forth程序设计思想",
+      "method": "reference"
+    },
+    {
+      "id": "OL16134369W",
+      "original": "Venture deals",
+      "before": "风险交易",
+      "after": "风险投资交易指南",
+      "method": "reference"
+    },
+    {
+      "id": "OL16811357W",
+      "original": "Real World OCaml",
+      "before": "现实世界的 OCaml",
+      "after": "OCaml实战",
+      "method": "reference"
+    },
+    {
+      "id": "OL15736552W",
+      "original": "Let  Over Lambda",
+      "before": "放弃拉姆达",
+      "after": "Let Over Lambda：Lisp宏编程",
+      "method": "reference"
+    },
+    {
+      "id": "OL15540668W",
+      "original": "The Emperor of All Maladies",
+      "before": "万病之王",
+      "after": "众病之王：癌症传",
+      "method": "reference"
+    },
+    {
+      "id": "OL22247013W",
+      "original": "Why's (Poignant) Guide to Ruby",
+      "before": "Why（令人心酸的）Ruby 指南",
+      "after": "Why的Ruby趣味指南",
+      "method": "reference"
+    },
+    {
+      "id": "OL35726022W",
+      "original": "Culture",
+      "before": "文化",
+      "after": "文明系列",
+      "method": "reference"
+    },
+    {
+      "id": "OL15473892W",
+      "original": "The personal MBA",
+      "before": "个人MBA",
+      "after": "个人MBA：商业知识自修课",
+      "method": "reference"
+    },
+    {
+      "id": "OL4688489W",
+      "original": "Starting FORTH",
+      "before": "开始前进",
+      "after": "Forth入门",
+      "method": "reference"
+    },
+    {
+      "id": "OL9256722W",
+      "original": "The old new thing",
+      "before": "旧事新事",
+      "after": "Windows编程启示录",
+      "method": "reference"
+    },
+    {
+      "id": "OL9486352W",
+      "original": "JavaScript",
+      "before": "JavaScript",
+      "after": "JavaScript语言精粹",
+      "method": "published",
+      "source": "https://phei.com.cn/module/goods/wssd_content.jsp?bookid=33817"
+    },
+    {
+      "id": "OL15056584W",
+      "original": "The ones who walk away from Omelas",
+      "before": "那些离开奥梅拉斯的人",
+      "after": "离开奥梅拉斯的人",
+      "method": "reference"
+    },
+    {
+      "id": "OL15118227W",
+      "original": "The Master Switch",
+      "before": "主开关",
+      "after": "总开关：信息帝国的兴衰",
+      "method": "reference"
+    },
+    {
+      "id": "OL2722066W",
+      "original": "Software Estimation",
+      "before": "软件估算",
+      "after": "软件估算：黑匣子的破解之道",
+      "method": "reference"
+    },
+    {
+      "id": "OL20015670W",
+      "original": "Traction",
+      "before": "牵引力",
+      "after": "牵引力：如何建立获客渠道",
+      "method": "reference"
+    },
+    {
+      "id": "OL3509442W",
+      "original": "The AWK programming language",
+      "before": "AWK编程语言",
+      "after": "AWK程序设计语言",
+      "method": "reference"
+    },
+    {
+      "id": "OL16929040W",
+      "original": "The UNIX-haters handbook",
+      "before": "UNIX 讨厌者手册",
+      "after": "UNIX痛恨者手册",
+      "method": "reference"
+    },
+    {
+      "id": "OL16802291W",
+      "original": "The Princeton Companion to Mathematics",
+      "before": "普林斯顿数学伴侣",
+      "after": "普林斯顿数学指南",
+      "method": "reference"
+    },
+    {
+      "id": "OL487019W",
+      "original": "Metamagical Themas",
+      "before": "超魔法主题",
+      "after": "超魔幻主题变奏",
+      "method": "reference"
+    },
+    {
+      "id": "OL271757W",
+      "original": "QED",
+      "before": "量子电动力学",
+      "after": "QED：光和物质的奇异性",
+      "method": "reference"
+    },
+    {
+      "id": "OL2938929W",
+      "original": "The reasoned schemer",
+      "before": "理性的阴谋家",
+      "after": "The Reasoned Schemer：逻辑式编程的奥妙",
+      "method": "reference"
+    },
+    {
+      "id": "OL19737103W",
+      "original": "The case against education",
+      "before": "反对教育的案例",
+      "after": "反对教育：文凭与学习的价值",
+      "method": "reference"
+    },
+    {
+      "id": "OL5286182W",
+      "original": "Systemantics",
+      "before": "系统论",
+      "after": "系统谬论",
+      "method": "reference"
+    },
+    {
+      "id": "OL29969W",
+      "original": "Impro",
+      "before": "鹰普",
+      "after": "即兴：戏剧与创造力",
+      "method": "reference"
+    },
+    {
+      "id": "OL38271105W",
+      "original": "Mastering Emacs",
+      "before": "掌握 Emacs",
+      "after": "精通Emacs",
+      "method": "reference"
+    },
+    {
+      "id": "OL2465684W",
+      "original": "Halting State",
+      "before": "暂停状态",
+      "after": "停机状态",
+      "method": "reference"
+    },
+    {
+      "id": "OL24593432W",
+      "original": "Dungeon Crawler Carl",
+      "before": "地下城探索者卡尔",
+      "after": "地牢闯关者卡尔",
+      "method": "reference"
+    },
+    {
+      "id": "OL4972656W",
+      "original": "Computer Lib/Dream Machines",
+      "before": "计算机图书馆/梦想机器",
+      "after": "计算机解放／梦幻机器",
+      "method": "reference"
+    },
+    {
+      "id": "OL15544038W",
+      "original": "Surface Detail",
+      "before": "表面细节",
+      "after": "表象细节",
+      "method": "reference"
+    },
+    {
+      "id": "OL19982983W",
+      "original": "Echopraxia",
+      "before": "失用症",
+      "after": "模仿症",
+      "method": "reference"
+    },
+    {
+      "id": "OL27292376W",
+      "original": "The Enchiridion",
+      "before": "百科全书",
+      "after": "爱比克泰德手册",
+      "method": "reference"
+    },
+    {
+      "id": "OL2589589W",
+      "original": "Project Oberon",
+      "before": "奥布朗计划",
+      "after": "Oberon计划",
+      "method": "reference"
+    },
+    {
+      "id": "OL21850152W",
+      "original": "Malazan Book of the Fallen : Books 1-4",
+      "before": "马拉赞《堕落者之书》：第 1-4 册",
+      "after": "马拉兹英灵录：第1至4部",
+      "method": "reference"
+    },
+    {
+      "id": "OL19831934W",
+      "original": "Book of Proof",
+      "before": "证明书",
+      "after": "证明之书",
+      "method": "reference"
+    },
+    {
+      "id": "OL6307060W",
+      "original": "The High Cost of Free Parking",
+      "before": "免费停车成本高昂",
+      "after": "免费停车的高昂代价",
+      "method": "reference"
+    },
+    {
+      "id": "OL19354079W",
+      "original": "White Fragility",
+      "before": "白色脆弱",
+      "after": "白人脆弱性",
+      "method": "reference"
+    },
+    {
+      "id": "OL4468929W",
+      "original": "Normal Accidents",
+      "before": "正常事故",
+      "after": "常态事故",
+      "method": "reference"
+    },
+    {
+      "id": "OL43888192W",
+      "original": "Ray Tracing in One Weekend",
+      "before": "一个周末的光线追踪",
+      "after": "一个周末学会光线追踪",
+      "method": "reference"
+    },
+    {
+      "id": "OL19547073W",
+      "original": "Programming Elixir",
+      "before": "编程灵药",
+      "after": "Elixir程序设计",
+      "method": "reference"
+    },
+    {
+      "id": "OL3923609W",
+      "original": "Notes on the synthesis of form",
+      "before": "表格合成的注意事项",
+      "after": "形式综合论札记",
+      "method": "reference"
+    },
+    {
+      "id": "OL8206219W",
+      "original": "How to Measure Anything",
+      "before": "如何测量任何事物",
+      "after": "如何衡量任何事物",
+      "method": "reference"
+    },
+    {
+      "id": "OL18818714W",
+      "original": "Bad Pharma",
+      "before": "不良制药公司",
+      "after": "坏药：药企如何误导医生和患者",
+      "method": "reference"
+    },
+    {
+      "id": "OL33370820W",
+      "original": "Mathematics for Computer Science",
+      "before": "计算机科学数学",
+      "after": "面向计算机科学的数学",
+      "method": "reference"
+    },
+    {
+      "id": "OL7034157W",
+      "original": "Trading and Exchanges",
+      "before": "交易与交流",
+      "after": "交易与交易所",
+      "method": "reference"
+    },
+    {
+      "id": "OL17429337W",
+      "original": "Mastery",
+      "before": "精通",
+      "after": "精通之道",
+      "method": "reference"
+    },
+    {
+      "id": "OL15899W",
+      "original": "Chaos",
+      "before": "混乱",
+      "after": "混沌：开创新科学",
+      "method": "reference"
+    },
+    {
+      "id": "OL20799952W",
+      "original": "Breath",
+      "before": "呼吸",
+      "after": "呼吸：一门失传技艺的新科学",
+      "method": "reference"
+    },
+    {
+      "id": "OL16028366W",
+      "original": "The art of learning",
+      "before": "学习的艺术",
+      "after": "学习之道",
+      "method": "reference"
+    },
+    {
+      "id": "OL19977665W",
+      "original": "The Obstacle is the Way",
+      "before": "障碍就是道路",
+      "after": "障碍即道路",
+      "method": "reference"
+    },
+    {
+      "id": "OL21817078W",
+      "original": "Peak",
+      "before": "巅峰",
+      "after": "刻意练习",
+      "method": "reference"
+    },
+    {
+      "id": "OL154572W",
+      "original": "The Denial of Death",
+      "before": "否认死亡",
+      "after": "拒斥死亡",
+      "method": "reference"
+    },
+    {
+      "id": "OL17424491W",
+      "original": "Practical Object Oriented Design In Ruby",
+      "before": "Ruby 中实用的面向对象设计",
+      "after": "Ruby面向对象设计实践",
+      "method": "reference"
+    },
+    {
+      "id": "OL24602517W",
+      "original": "Consider the Lobster",
+      "before": "考虑龙虾",
+      "after": "思考龙虾",
+      "method": "reference"
+    },
+    {
+      "id": "OL19545500W",
+      "original": "Secrets of the JavaScript Ninja",
+      "before": "JavaScript 忍者的秘密",
+      "after": "JavaScript忍者秘籍",
+      "method": "reference"
+    },
+    {
+      "id": "OL17835813W",
+      "original": "Behave",
+      "before": "行为规范",
+      "after": "行为：人类的生物学",
+      "method": "reference"
+    },
+    {
+      "id": "OL98485W",
+      "original": "The Sirens of Titan",
+      "before": "泰坦海妖",
+      "after": "泰坦的海妖",
+      "method": "reference"
+    },
+    {
+      "id": "OL15578776W",
+      "original": "The 4-Hour Body",
+      "before": "4小时身体",
+      "after": "每周健身4小时",
+      "method": "reference"
+    },
+    {
+      "id": "OL164882W",
+      "original": "The Technological Society",
+      "before": "技术协会",
+      "after": "技术社会",
+      "method": "reference"
+    },
+    {
+      "id": "OL20023423W",
+      "original": "Elixir in action",
+      "before": "Elixir 的作用",
+      "after": "Elixir实战",
+      "method": "reference"
+    },
+    {
+      "id": "OL1972517W",
+      "original": "Programming Windows",
+      "before": "编程窗口",
+      "after": "Windows程序设计",
+      "method": "reference"
+    },
+    {
+      "id": "OL19546865W",
+      "original": "Grokking Algorithms",
+      "before": "摸索算法",
+      "after": "算法图解",
+      "method": "reference"
+    },
+    {
+      "id": "OL2848901W",
+      "original": "Deschooling Society",
+      "before": "学校教育协会",
+      "after": "去学校化社会",
+      "method": "reference"
+    },
+    {
+      "id": "OL20027929W",
+      "original": "The obesity code",
+      "before": "肥胖代码",
+      "after": "肥胖密码",
+      "method": "reference"
+    },
+    {
+      "id": "OL19992071W",
+      "original": "Hooked",
+      "before": "着迷",
+      "after": "上瘾：让用户养成使用习惯的四大产品逻辑",
+      "method": "reference"
+    },
+    {
+      "id": "OL8055600W",
+      "original": "All of Statistics",
+      "before": "所有统计数据",
+      "after": "统计学完全教程",
+      "method": "reference"
+    },
+    {
+      "id": "OL16511251W",
+      "original": "Accelerated C++",
+      "before": "加速C++",
+      "after": "Accelerated C++：通过示例进行编程实践",
+      "method": "reference"
+    },
+    {
+      "id": "OL272920W",
+      "original": "Effective Executive",
+      "before": "有效的执行力",
+      "after": "卓有成效的管理者",
+      "method": "reference"
+    },
+    {
+      "id": "OL823146W",
+      "original": "How Buildings Learn",
+      "before": "建筑物如何学习",
+      "after": "建筑如何演变",
+      "method": "reference"
+    },
+    {
+      "id": "OL22355777W",
+      "original": "Four Thousand Weeks",
+      "before": "四千周",
+      "after": "人生只有4000个星期",
+      "method": "reference"
+    },
+    {
+      "id": "OL16126241W",
+      "original": "Turing's cathedral",
+      "before": "图灵大教堂",
+      "after": "图灵的大教堂",
+      "method": "reference"
+    },
+    {
+      "id": "OL20641522W",
+      "original": "An Elegant Puzzle",
+      "before": "优雅的拼图",
+      "after": "优雅的谜题：工程管理的系统方法",
+      "method": "reference"
+    },
+    {
+      "id": "OL1168126W",
+      "original": "The Road to Wigan Pier",
+      "before": "通往维根码头之路",
+      "after": "通往威根码头之路",
+      "method": "reference"
+    },
+    {
+      "id": "OL3268118W",
+      "original": "When Genius Failed",
+      "before": "当天才失败时",
+      "after": "当天才遭遇滑铁卢",
+      "method": "reference"
+    },
+    {
+      "id": "OL17095301W",
+      "original": "What If?",
+      "before": "如果呢？",
+      "after": "那些古怪又让人忧心的问题",
+      "method": "reference"
+    },
+    {
+      "id": "OL2636665W",
+      "original": "The Crying of Lot 49",
+      "before": "第49批地的哭泣",
+      "after": "拍卖第四十九批",
+      "method": "reference"
+    },
+    {
+      "id": "OL716849W",
+      "original": "The Mind's I",
+      "before": "心灵的我",
+      "after": "心我论",
+      "method": "reference"
+    },
+    {
+      "id": "OL18146664W",
+      "original": "The Food Lab",
+      "before": "食品实验室",
+      "after": "食物实验室",
+      "method": "reference"
+    },
+    {
+      "id": "OL2329204W",
+      "original": "The Dip",
+      "before": "下降",
+      "after": "低谷：如何坚持，何时放弃",
+      "method": "reference"
+    },
+    {
+      "id": "OL8502474W",
+      "original": "No More Mr. Nice Guy",
+      "before": "不再是好人先生了",
+      "after": "不再做老好人",
+      "method": "reference"
+    },
+    {
+      "id": "OL17198080W",
+      "original": "The Sense of Style",
+      "before": "风格感",
+      "after": "风格感觉：21世纪写作指南",
+      "method": "reference"
+    },
+    {
+      "id": "OL20159667W",
+      "original": "Extraordinary Popular Delusions and the Madness of Crowds",
+      "before": "非同寻常的大众错觉和人群的疯狂",
+      "after": "非同寻常的大众幻想与群众性癫狂",
+      "method": "reference"
+    },
+    {
+      "id": "OL20878335W",
+      "original": "The Metamorphosis of Prime Intellect",
+      "before": "原始智力的变形",
+      "after": "原初智能的蜕变",
+      "method": "reference"
+    },
+    {
+      "id": "OL46909W",
+      "original": "The Andromeda Strain",
+      "before": "仙女座菌株",
+      "after": "天外来菌",
+      "method": "reference"
+    },
+    {
+      "id": "OL19542938W",
+      "original": "Domain Modeling Made Functional",
+      "before": "领域建模变得实用",
+      "after": "函数式领域建模",
+      "method": "reference"
+    },
+    {
+      "id": "OL2748135W",
+      "original": "The Prize",
+      "before": "奖品",
+      "after": "石油大博弈",
+      "method": "reference"
+    },
+    {
+      "id": "OL17474661W",
+      "original": "How Asia Works",
+      "before": "亚洲如何运作",
+      "after": "亚洲大趋势",
+      "method": "reference"
+    },
+    {
+      "id": "OL16484595W",
+      "original": "Quiet",
+      "before": "安静",
+      "after": "安静：内向性格的竞争力",
+      "method": "reference"
+    },
+    {
+      "id": "OL453735W",
+      "original": "Guards! Guards!",
+      "before": "Guards!卫兵！",
+      "after": "碟形世界特警队 . 1",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL40233905M"
+    },
+    {
+      "id": "OL13759269W",
+      "original": "Shop class as soulcraft",
+      "before": "作为灵魂工艺的商店等级",
+      "after": "摩托车修理店的未来工作哲学",
+      "method": "reference"
+    },
+    {
+      "id": "OL1908441W",
+      "original": "Punished by Rewards",
+      "before": "奖励惩罚",
+      "after": "惩罚的奖励",
+      "method": "reference"
+    },
+    {
+      "id": "OL1295435W",
+      "original": "Real and complex analysis",
+      "before": "实数与复数分析",
+      "after": "实分析与复分析",
+      "method": "reference"
+    },
+    {
+      "id": "OL3285486W",
+      "original": "Introduction to linear algebra",
+      "before": "线性代数简介",
+      "after": "线性代数导论",
+      "method": "reference"
+    },
+    {
+      "id": "OL19341943W",
+      "original": "The City & The City",
+      "before": "城市与城市",
+      "after": "城与城",
+      "method": "reference"
+    },
+    {
+      "id": "OL15840192W",
+      "original": "Stumbling on happiness",
+      "before": "绊倒幸福",
+      "after": "撞上幸福",
+      "method": "reference"
+    },
+    {
+      "id": "OL27419964W",
+      "original": "The subtle art of not giving a fuck [hardcover] and how to be fucking awesome 2 books collection set - a counterintuitive approach to living a good life",
+      "before": "不在乎的微妙艺术 [精装] 以及如何变得他妈的很棒 2 本书集 - 一种违反直觉的美好生活方法",
+      "after": "不在乎的艺术与生活实践：两书合集",
+      "method": "reference"
+    },
+    {
+      "id": "OL473565W",
+      "original": "The Mismeasure of Man",
+      "before": "人的误判",
+      "after": "人类的误测",
+      "method": "reference"
+    },
+    {
+      "id": "OL19733362W",
+      "original": "The master and his emissary",
+      "before": "大师和他的使者",
+      "after": "主人与使者",
+      "method": "reference"
+    },
+    {
+      "id": "OL17582815W",
+      "original": "Functional Programming In Scala",
+      "before": "Scala 中的函数式编程",
+      "after": "Scala函数式编程",
+      "method": "reference"
+    },
+    {
+      "id": "OL15168112W",
+      "original": "Rework",
+      "before": "返工",
+      "after": "重来",
+      "method": "reference"
+    },
+    {
+      "id": "OL17590212W",
+      "original": "The Subtle Art of Not Giving a F*ck",
+      "before": "不在乎的微妙艺术",
+      "after": "重塑幸福：如何活成你想要的模样",
+      "method": "reference"
+    },
+    {
+      "id": "OL17323593W",
+      "original": "Thing Explainer",
+      "before": "事物解释器",
+      "after": "万物解释者",
+      "method": "reference"
+    },
+    {
+      "id": "OL31272706W",
+      "original": "The Five Dysfunctions of a Team",
+      "before": "团队的五种功能障碍",
+      "after": "团队协作的五大障碍",
+      "method": "reference"
+    },
+    {
+      "id": "OL34324360W",
+      "original": "Your Money Or Your Life",
+      "before": "你的钱还是你的生命",
+      "after": "金钱与人生",
+      "method": "reference"
+    },
+    {
+      "id": "OL2745855W",
+      "original": "Exit, voice, and loyalty",
+      "before": "退出、声音和忠诚",
+      "after": "退出、呼吁与忠诚",
+      "method": "reference"
+    },
+    {
+      "id": "OL16471431W",
+      "original": "Kill Decision",
+      "before": "杀戮决定",
+      "after": "杀戮决策",
+      "method": "reference"
+    },
+    {
+      "id": "OL16955281W",
+      "original": "Growing object-oriented software, guided by tests",
+      "before": "以测试为指导，不断发展面向对象的软件",
+      "after": "测试驱动的面向对象软件开发",
+      "method": "reference"
+    },
+    {
+      "id": "OL716846W",
+      "original": "Le Ton beau de Marot",
+      "before": "Marot 优美的音色",
+      "after": "马罗的美妙声调",
+      "method": "reference"
+    },
+    {
+      "id": "OL17365511W",
+      "original": "Realm of Racket",
+      "before": "球拍领域",
+      "after": "Racket王国",
+      "method": "reference"
+    },
+    {
+      "id": "OL100773W",
+      "original": "Look to windward",
+      "before": "朝上风方向看",
+      "after": "遥望上风",
+      "method": "reference"
+    },
+    {
+      "id": "OL16948453W",
+      "original": "Eloquent Ruby",
+      "before": "雄辩的红宝石",
+      "after": "优雅的Ruby",
+      "method": "reference"
+    },
+    {
+      "id": "OL16808654W",
+      "original": "The Circle",
+      "before": "圆圈",
+      "after": "圆圈：科技公司的监控乌托邦",
+      "method": "reference"
+    },
+    {
+      "id": "OL8928012W",
+      "original": "Poor Charlie's Almanack",
+      "before": "穷查理年鉴",
+      "after": "穷查理宝典",
+      "method": "reference"
+    },
+    {
+      "id": "OL478877W",
+      "original": "Class",
+      "before": "班级",
+      "after": "格调",
+      "method": "reference"
+    },
+    {
+      "id": "OL19547324W",
+      "original": "Mastering Bitcoin",
+      "before": "掌握比特币",
+      "after": "精通比特币",
+      "method": "reference"
+    },
+    {
+      "id": "OL18755648W",
+      "original": "You are not a gadget",
+      "before": "你不是一个小玩意儿",
+      "after": "你不是个玩意儿",
+      "method": "reference"
+    },
+    {
+      "id": "OL1704496W",
+      "original": "UNIX Power Tools",
+      "before": "UNIX电动工具",
+      "after": "UNIX超级工具",
+      "method": "reference"
+    },
+    {
+      "id": "OL2938931W",
+      "original": "Essentials of programming languages",
+      "before": "编程语言要点",
+      "after": "程序设计语言要素",
+      "method": "reference"
+    },
+    {
+      "id": "OL8036447W",
+      "original": "The Wisdom of Crowds:Why the Many Are Smarter Than the Few and How Collective Wisdom Shapes Business, Economies, Societies and Nations",
+      "before": "群体的智慧：为什么多数人比少数人聪明以及集体智慧如何塑造商业、经济、社会和国家",
+      "after": "群体的智慧",
+      "method": "reference"
+    },
+    {
+      "id": "OL29096812W",
+      "original": "Letters from a Stoic",
+      "before": "斯多葛派的来信",
+      "after": "致卢基里乌斯书信集",
+      "method": "reference"
+    },
+    {
+      "id": "OL462159W",
+      "original": "Fire in the valley",
+      "before": "山谷里的火",
+      "after": "硅谷之火",
+      "method": "reference"
+    },
+    {
+      "id": "OL2704215W",
+      "original": "Modern compiler implementation in ML",
+      "before": "ML 中的现代编译器实现",
+      "after": "现代编译原理：ML语言描述",
+      "method": "reference"
+    },
+    {
+      "id": "OL27255W",
+      "original": "Idoru",
+      "before": "伊多鲁",
+      "after": "虚拟偶像",
+      "method": "reference"
+    },
+    {
+      "id": "OL8982032W",
+      "original": "I will teach you to be rich",
+      "before": "我会教你致富",
+      "after": "教你变有钱",
+      "method": "reference"
+    },
+    {
+      "id": "OL27513W",
+      "original": "The Fellowship of the Ring",
+      "before": "护戒使者",
+      "after": "魔戒(指环王)",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL28255957M"
+    },
+    {
+      "id": "OL28986W",
+      "original": "His Dark Materials",
+      "before": "他的黑暗物质",
+      "after": "黑暗物质三部曲",
+      "method": "reference"
+    },
+    {
+      "id": "OL2882085W",
+      "original": "Visual complex analysis",
+      "before": "视觉复杂分析",
+      "after": "可视化复分析",
+      "method": "reference"
+    },
+    {
+      "id": "OL17422847W",
+      "original": "Python For Data Analysis",
+      "before": "Python用于数据分析",
+      "after": "利用Python进行数据分析",
+      "method": "reference"
+    },
+    {
+      "id": "OL2943597W",
+      "original": "A supposedly fun thing I'll never do again",
+      "before": "一件据说很有趣的事情我再也不会做",
+      "after": "一件本来很好玩的事",
+      "method": "reference"
+    },
+    {
+      "id": "OL16513W",
+      "original": "Blood Music",
+      "before": "血音乐",
+      "after": "血之音乐",
+      "method": "reference"
+    },
+    {
+      "id": "OL1915651W",
+      "original": "The TeXbook",
+      "before": "教材",
+      "after": "TeX程序设计",
+      "method": "reference"
+    },
+    {
+      "id": "OL675722W",
+      "original": "Oryx and Crake",
+      "before": "羚羊和秧鸡",
+      "after": "羚羊与秧鸡",
+      "method": "reference"
+    },
+    {
+      "id": "OL10951W",
+      "original": "Bad Science",
+      "before": "糟糕的科学",
+      "after": "坏科学",
+      "method": "reference"
+    },
+    {
+      "id": "OL19546379W",
+      "original": "Programming Phoenix",
+      "before": "凤凰编程",
+      "after": "Phoenix程序设计",
+      "method": "reference"
+    },
+    {
+      "id": "OL17357665W",
+      "original": "Hillbilly Elegy",
+      "before": "乡巴佬挽歌",
+      "after": "乡下人的悲歌",
+      "method": "reference"
+    },
+    {
+      "id": "OL27253W",
+      "original": "Mona Lisa Overdrive",
+      "before": "蒙娜丽莎超速驾驶",
+      "after": "重启蒙娜丽莎",
+      "method": "reference"
+    },
+    {
+      "id": "OL1888054W",
+      "original": "The Hacker Crackdown",
+      "before": "打击黑客",
+      "after": "围剿黑客",
+      "method": "reference"
+    },
+    {
+      "id": "OL7957166W",
+      "original": "Elements of programming",
+      "before": "编程要素",
+      "after": "程序设计要素",
+      "method": "reference"
+    },
+    {
+      "id": "OL5268219W",
+      "original": "BASIC Computer Games",
+      "before": "基本电脑游戏",
+      "after": "BASIC计算机游戏",
+      "method": "reference"
+    },
+    {
+      "id": "OL37791428W",
+      "original": "A Book of Five Rings",
+      "before": "五环书",
+      "after": "五轮书",
+      "method": "reference"
+    },
+    {
+      "id": "OL1958851W",
+      "original": "The age of spiritual machines",
+      "before": "精神机器时代",
+      "after": "灵性机器的时代",
+      "method": "reference"
+    },
+    {
+      "id": "OL13814659W",
+      "original": "The web application hacker's handbook",
+      "before": "Web 应用程序黑客手册",
+      "after": "Web应用黑客攻防手册",
+      "method": "reference"
+    },
+    {
+      "id": "OL2096536W",
+      "original": "Watership Down",
+      "before": "沃特希普镇",
+      "after": "瓦特希普高原",
+      "method": "reference"
+    },
+    {
+      "id": "OL1819353W",
+      "original": "The Stars My Destination",
+      "before": "星星我的目的地",
+      "after": "群星，我的归宿",
+      "method": "reference"
+    },
+    {
+      "id": "OL2776270W",
+      "original": "The scientist and engineer's guide to digital signal processing",
+      "before": "科学家和工程师数字信号处理指南",
+      "after": "数字信号处理：科学家与工程师指南",
+      "method": "reference"
+    },
+    {
+      "id": "OL20542025W",
+      "original": "The man who solved the market",
+      "before": "解决市场问题的人",
+      "after": "征服市场的人",
+      "method": "reference"
+    },
+    {
+      "id": "OL2683553W",
+      "original": "The Cyberiad",
+      "before": "赛博里亚德",
+      "after": "控制论大全",
+      "method": "reference"
+    },
+    {
+      "id": "OL1868441W",
+      "original": "The Theory of the Leisure Class",
+      "before": "有闲阶级理论",
+      "after": "有闲阶级论",
+      "method": "reference"
+    },
+    {
+      "id": "OL19702508W",
+      "original": "The talent code",
+      "before": "天赋代码",
+      "after": "一万小时天才理论",
+      "method": "reference"
+    },
+    {
+      "id": "OL1975718W",
+      "original": "Marooned in Realtime",
+      "before": "实时陷入困境",
+      "after": "实时放逐",
+      "method": "reference"
+    },
+    {
+      "id": "OL2938930W",
+      "original": "The seasoned schemer",
+      "before": "老练的阴谋家",
+      "after": "The Seasoned Schemer：进阶函数式编程",
+      "method": "reference"
+    },
+    {
+      "id": "OL2589577W",
+      "original": "Compiler construction",
+      "before": "编译器构建",
+      "after": "编译器构造",
+      "method": "reference"
+    },
+    {
+      "id": "OL15626798W",
+      "original": "Merchants of Doubt",
+      "before": "怀疑商人",
+      "after": "贩卖怀疑的商人",
+      "method": "reference"
+    },
+    {
+      "id": "OL90571W",
+      "original": "Tau Zero",
+      "before": "钛零",
+      "after": "零号宇宙",
+      "method": "reference"
+    },
+    {
+      "id": "OL21737514W",
+      "original": "Programming from the Ground Up",
+      "before": "从头开始编程",
+      "after": "从底层理解程序设计",
+      "method": "reference"
+    },
+    {
+      "id": "OL15130328W",
+      "original": "The Way Things Work",
+      "before": "事情的运作方式",
+      "after": "万物运转的秘密",
+      "method": "reference"
+    },
+    {
+      "id": "OL265465W",
+      "original": "Longitude",
+      "before": "经度",
+      "after": "经度：寻找地球刻度的人",
+      "method": "reference"
+    },
+    {
+      "id": "OL17785472W",
+      "original": "Our Mathematical Universe",
+      "before": "我们的数学宇宙",
+      "after": "穿越平行宇宙",
+      "method": "reference"
+    },
+    {
+      "id": "OL24217597W",
+      "original": "A Thousand Brains",
+      "before": "一千个大脑",
+      "after": "千脑智能",
+      "method": "reference"
+    },
+    {
+      "id": "OL134601W",
+      "original": "Lonesome Dove",
+      "before": "孤独的鸽子",
+      "after": "孤鸽镇",
+      "method": "reference"
+    },
+    {
+      "id": "OL16202595W",
+      "original": "Republic, lost",
+      "before": "共和国，失败",
+      "after": "失落的共和国",
+      "method": "reference"
+    },
+    {
+      "id": "OL25453949W",
+      "original": "Stolen Focus",
+      "before": "被盗焦点",
+      "after": "被偷走的专注力",
+      "method": "reference"
+    },
+    {
+      "id": "OL19974170W",
+      "original": "How to fail at almost everything and still win big",
+      "before": "如何几乎在所有事情上都失败了，但仍然大获全胜",
+      "after": "如何在几乎所有事情上失败，仍能赢得人生",
+      "method": "reference"
+    },
+    {
+      "id": "OL34928324W",
+      "original": "Ur-Fascism",
+      "before": "原始法西斯主义",
+      "after": "永恒的法西斯主义",
+      "method": "reference"
+    },
+    {
+      "id": "OL821135W",
+      "original": "Proofs from the book",
+      "before": "书中的证明",
+      "after": "数学天书中的证明",
+      "method": "reference"
+    },
+    {
+      "id": "OL4782340W",
+      "original": "Rules for radicals",
+      "before": "部首规则",
+      "after": "激进分子规则",
+      "method": "reference"
+    },
+    {
+      "id": "OL16149072W",
+      "original": "Good Strategy, Bad Strategy",
+      "before": "好策略，坏策略",
+      "after": "好战略，坏战略",
+      "method": "reference"
+    },
+    {
+      "id": "OL2722065W",
+      "original": "Rapid development",
+      "before": "快速发展",
+      "after": "快速软件开发",
+      "method": "reference"
+    },
+    {
+      "id": "OL38898913W",
+      "original": "All Quiet on the Western Front",
+      "before": "西线寂静无声",
+      "after": "西线无战事",
+      "method": "reference"
+    },
+    {
+      "id": "OL16815225W",
+      "original": "Hatching Twitter",
+      "before": "孵化 Twitter",
+      "after": "孵化Twitter",
+      "method": "reference"
+    },
+    {
+      "id": "HBbeautiful-racket",
+      "original": "Beautiful Racket",
+      "before": "漂亮的球拍",
+      "after": "优美的Racket",
+      "method": "reference"
+    },
+    {
+      "id": "OL2163655W",
+      "original": "The Restaurant at the End of the Universe",
+      "before": "宇宙尽头的餐厅",
+      "after": "宇宙尽头的餐馆",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL27894127M"
+    },
+    {
+      "id": "OL21360140W",
+      "original": "Database Internals",
+      "before": "数据库内部结构",
+      "after": "数据库内幕",
+      "method": "reference"
+    },
+    {
+      "id": "OL2163628W",
+      "original": "Dirk Gently’s Holistic Detective Agency",
+      "before": "德克·金特利的整体侦探社",
+      "after": "德克·根特利的全方位侦探事务所",
+      "method": "reference"
+    },
+    {
+      "id": "HBignition-an-informal-history-of-liquid-rocket-pr",
+      "original": "Ignition! An Informal History of Liquid Rocket Propellants",
+      "before": "Ignition!液体火箭推进剂的非正式历史",
+      "after": "点火！液体火箭推进剂趣史",
+      "method": "reference"
+    },
+    {
+      "id": "OL46395W",
+      "original": "The Gods Themselves",
+      "before": "诸神本身",
+      "after": "神们自己",
+      "method": "reference"
+    },
+    {
+      "id": "OL17710110W",
+      "original": "On Tyranny",
+      "before": "论暴政",
+      "after": "暴政",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL43842425M"
+    },
+    {
+      "id": "OL14873643W",
+      "original": "The Innovator's Solution",
+      "before": "创新者的解决方案",
+      "after": "创新者的解答",
+      "method": "reference"
+    },
+    {
+      "id": "OL76830W",
+      "original": "Speech and language processing",
+      "before": "语音和语言处理",
+      "after": "语音与语言处理",
+      "method": "reference"
+    },
+    {
+      "id": "OL893516W",
+      "original": "Children of Dune",
+      "before": "沙丘之子",
+      "after": "沙丘(3沙丘之子)",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL43022658M"
+    },
+    {
+      "id": "OL16803591W",
+      "original": "Inspired",
+      "before": "受到启发",
+      "after": "启示录：打造用户喜爱的产品",
+      "method": "reference"
+    },
+    {
+      "id": "OL15166223W",
+      "original": "Talent is Overrated",
+      "before": "人才被高估了",
+      "after": "天才源自刻意练习",
+      "method": "reference"
+    },
+    {
+      "id": "OL1593567W",
+      "original": "Games People Play",
+      "before": "人们玩的游戏",
+      "after": "人间游戏",
+      "method": "reference"
+    },
+    {
+      "id": "OL17894924W",
+      "original": "Other Minds",
+      "before": "其他想法",
+      "after": "其他心灵：章鱼与智能的演化",
+      "method": "reference"
+    },
+    {
+      "id": "OL53184W",
+      "original": "The C++ programming language",
+      "before": "C++编程语言",
+      "after": "C++程序设计语言",
+      "method": "reference"
+    },
+    {
+      "id": "OL19736287W",
+      "original": "Thinking in bets",
+      "before": "下注思考",
+      "after": "对赌：信息不足时如何做出高明决策",
+      "method": "reference"
+    },
+    {
+      "id": "OL27455W",
+      "original": "The Return of the King",
+      "before": "王者归来",
+      "after": "王者再临",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL23041749M"
+    },
+    {
+      "id": "OL36431699W",
+      "original": "Remembering the Kanji",
+      "before": "记住汉字",
+      "after": "记忆汉字",
+      "method": "reference"
+    },
+    {
+      "id": "OL37863900W",
+      "original": "Hidden Life of Trees",
+      "before": "树的隐藏生命",
+      "after": "树的秘密生命",
+      "method": "reference"
+    },
+    {
+      "id": "OL3236899W",
+      "original": "Legacy of Ashes",
+      "before": "灰烬之遗产",
+      "after": "灰烬的遗产",
+      "method": "reference"
+    },
+    {
+      "id": "OL17581315W",
+      "original": "Think Bayes",
+      "before": "思考贝叶斯",
+      "after": "贝叶斯思维",
+      "method": "reference"
+    },
+    {
+      "id": "OL45815764W",
+      "original": "The Truth of Fact, The Truth of Feeling",
+      "before": "事实的真相，感觉的真相",
+      "after": "事实的真相，情感的真相",
+      "method": "reference"
+    },
+    {
+      "id": "OL19546309W",
+      "original": "R for Data Science",
+      "before": "R 数据科学",
+      "after": "R数据科学",
+      "method": "reference"
+    },
+    {
+      "id": "OL15043953W",
+      "original": "The 22 Immutable Laws of Marketing",
+      "before": "22条不变的营销法则",
+      "after": "定位的22条法则",
+      "method": "reference"
+    },
+    {
+      "id": "OL81324W",
+      "original": "Driven to distraction",
+      "before": "心烦意乱",
+      "after": "分心不是我的错",
+      "method": "reference"
+    },
+    {
+      "id": "OL19717530W",
+      "original": "Life 3.0",
+      "before": "生活3.0",
+      "after": "生命3.0",
+      "method": "reference"
+    },
+    {
+      "id": "OL27203W",
+      "original": "The Four Agreements",
+      "before": "四项协议",
+      "after": "四个约定",
+      "method": "reference"
+    },
+    {
+      "id": "OL38503W",
+      "original": "Zodiac",
+      "before": "十二生肖",
+      "after": "黄道十二宫",
+      "method": "reference"
+    },
+    {
+      "id": "OL106813W",
+      "original": "Lies My Teacher Told Me",
+      "before": "老师告诉我的谎言",
+      "after": "老师的谎言",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL30083254M"
+    },
+    {
+      "id": "OL19984266W",
+      "original": "Fluent forever",
+      "before": "永远流利",
+      "after": "外语习得的秘密",
+      "method": "reference"
+    },
+    {
+      "id": "OL1961693W",
+      "original": "Extreme programming explained",
+      "before": "极限编程解释",
+      "after": "解析极限编程：拥抱变化",
+      "method": "reference"
+    },
+    {
+      "id": "OL16028960W",
+      "original": "Let my people go surfing",
+      "before": "让我的人民去冲浪",
+      "after": "冲浪板上的公司",
+      "method": "reference"
+    },
+    {
+      "id": "OL46398W",
+      "original": "The Naked Sun",
+      "before": "裸露的太阳",
+      "after": "裸阳",
+      "method": "reference"
+    },
+    {
+      "id": "OL25435388W",
+      "original": "Hard-Boiled Wonderland and the End of the World",
+      "before": "冷酷仙境与世界末日",
+      "after": "世界尽头与冷酷仙境",
+      "method": "reference"
+    },
+    {
+      "id": "OL3007423W",
+      "original": "The creature from Jekyll Island",
+      "before": "杰基尔岛的生物",
+      "after": "哲基尔岛的怪物",
+      "method": "reference"
+    },
+    {
+      "id": "OL14866497W",
+      "original": "Introduction to information retrieval",
+      "before": "信息检索简介",
+      "after": "信息检索导论",
+      "method": "reference"
+    },
+    {
+      "id": "OL22321354W",
+      "original": "Coding the Matrix",
+      "before": "矩阵编码",
+      "after": "编码矩阵：用线性代数理解计算机科学",
+      "method": "reference"
+    },
+    {
+      "id": "OL1914022W",
+      "original": "The Pillars of the Earth",
+      "before": "地球的支柱",
+      "after": "圣殿春秋",
+      "method": "reference"
+    },
+    {
+      "id": "OL19729600W",
+      "original": "Lost connections",
+      "before": "失去连接",
+      "after": "失去联结",
+      "method": "reference"
+    },
+    {
+      "id": "OL19721368W",
+      "original": "Blood, sweat, and pixels",
+      "before": "血、汗水和像素",
+      "after": "血、汗与像素",
+      "method": "reference"
+    },
+    {
+      "id": "OL20924665W",
+      "original": "To Sell Is Human",
+      "before": "销售是人之常情",
+      "after": "全新销售",
+      "method": "reference"
+    },
+    {
+      "id": "OL2938932W",
+      "original": "The little LISPer",
+      "before": "小 LISPer",
+      "after": "小小Lisper",
+      "method": "reference"
+    },
+    {
+      "id": "OL16223034W",
+      "original": "Think Stats",
+      "before": "思考统计数据",
+      "after": "统计思维",
+      "method": "reference"
+    },
+    {
+      "id": "OL14958019W",
+      "original": "Slack",
+      "before": "松弛",
+      "after": "松弛：应对忙碌、倦怠和瓶颈",
+      "method": "reference"
+    },
+    {
+      "id": "OL3378527W",
+      "original": "The Guns of August",
+      "before": "八月之枪",
+      "after": "八月炮火",
+      "method": "reference"
+    },
+    {
+      "id": "OL34536362W",
+      "original": "Dont Make Me Think",
+      "before": "别让我思考",
+      "after": "点石成金",
+      "method": "reference"
+    },
+    {
+      "id": "OL15576733W",
+      "original": "Business model generation",
+      "before": "商业模式生成",
+      "after": "商业模式新生代",
+      "method": "reference"
+    },
+    {
+      "id": "OL2163712W",
+      "original": "Last Chance to See",
+      "before": "最后一次见面的机会",
+      "after": "最后一眼",
+      "method": "reference"
+    },
+    {
+      "id": "OL1917542W",
+      "original": "Spark",
+      "before": "火花",
+      "after": "运动改造大脑",
+      "method": "reference"
+    },
+    {
+      "id": "OL7941473W",
+      "original": "Programming Language Pragmatics",
+      "before": "编程语言语用学",
+      "after": "程序设计语言：实践之路",
+      "method": "reference"
+    },
+    {
+      "id": "OL20837000W",
+      "original": "Incerto",
+      "before": "因切托",
+      "after": "不确定性系列",
+      "method": "reference"
+    },
+    {
+      "id": "OL17312335W",
+      "original": "So You've Been Publicly Shamed",
+      "before": "所以你被公开羞辱了",
+      "after": "我们为何热衷围观羞辱",
+      "method": "reference"
+    },
+    {
+      "id": "OL28148070W",
+      "original": "Outlive",
+      "before": "活下去",
+      "after": "超越百岁",
+      "method": "reference"
+    },
+    {
+      "id": "OL10446730W",
+      "original": "After virtue",
+      "before": "德行之后",
+      "after": "追寻美德",
+      "method": "reference"
+    },
+    {
+      "id": "OL20046443W",
+      "original": "The daily stoic",
+      "before": "日常坚忍",
+      "after": "每日斯多葛",
+      "method": "reference"
+    },
+    {
+      "id": "OL12221031W",
+      "original": "Programming interviews exposed",
+      "before": "编程采访曝光",
+      "after": "程序员面试攻略",
+      "method": "reference"
+    },
+    {
+      "id": "OL2520811W",
+      "original": "Nickel and Dimed",
+      "before": "镍和硬币",
+      "after": "五分一毛",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL28416750M"
+    },
+    {
+      "id": "OL2784125W",
+      "original": "Learning Python",
+      "before": "学习Python",
+      "after": "Python学习手册",
+      "method": "reference"
+    },
+    {
+      "id": "OL5709101W",
+      "original": "Save the cat!",
+      "before": "救救猫！",
+      "after": "救猫咪 : 电影编剧宝典",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL27710907M"
+    },
+    {
+      "id": "OL115333W",
+      "original": "Axiomatic",
+      "before": "公理化",
+      "after": "公理",
+      "method": "reference"
+    },
+    {
+      "id": "OL16804561W",
+      "original": "Daily Rituals",
+      "before": "日常仪式",
+      "after": "创作者的日常仪式",
+      "method": "reference"
+    },
+    {
+      "id": "OL24704763W",
+      "original": "The Gallic Wars",
+      "before": "高卢战争",
+      "after": "高卢战记",
+      "method": "reference"
+    },
+    {
+      "id": "OL2824011W",
+      "original": "Envisioning Information",
+      "before": "设想信息",
+      "after": "信息构想",
+      "method": "reference"
+    },
+    {
+      "id": "OL3741564W",
+      "original": "Silicon snake oil",
+      "before": "硅蛇油",
+      "after": "硅谷蛇油",
+      "method": "reference"
+    },
+    {
+      "id": "OL19974099W",
+      "original": "Ruby under a microscope",
+      "before": "显微镜下的红宝石",
+      "after": "Ruby原理剖析",
+      "method": "reference"
+    },
+    {
+      "id": "OL15365550W",
+      "original": "The Facebook Effect",
+      "before": "Facebook 效应",
+      "after": "Facebook效应",
+      "method": "reference"
+    },
+    {
+      "id": "OL3290731W",
+      "original": "Last and First Men",
+      "before": "最后与第一个人",
+      "after": "最后与最初的人",
+      "method": "reference"
+    },
+    {
+      "id": "OL20128048W",
+      "original": "Lifespan",
+      "before": "寿命",
+      "after": "我们为什么会衰老",
+      "method": "reference"
+    },
+    {
+      "id": "OL1915643W",
+      "original": "Surreal numbers",
+      "before": "超现实的数字",
+      "after": "超现实数",
+      "method": "reference"
+    },
+    {
+      "id": "OL17363106W",
+      "original": "Smart & Gets Things Done",
+      "before": "聪明并把事情做好",
+      "after": "聪明又能把事办成的人",
+      "method": "reference"
+    },
+    {
+      "id": "OL16135310W",
+      "original": "The passionate programmer",
+      "before": "充满激情的程序员",
+      "after": "卓有成效的程序员",
+      "method": "reference"
+    },
+    {
+      "id": "OL12404493W",
+      "original": "The Drunkard's Walk",
+      "before": "醉汉的脚步",
+      "after": "醉汉的脚步：随机性如何影响我们的生活",
+      "method": "reference"
+    },
+    {
+      "id": "OL2620286W",
+      "original": "The evolution of cooperation",
+      "before": "合作的演变",
+      "after": "合作的进化",
+      "method": "reference"
+    },
+    {
+      "id": "OL15503902W",
+      "original": "The well-grounded Rubyist",
+      "before": "脚踏实地的红宝石主义者",
+      "after": "Ruby程序员修炼之道",
+      "method": "reference"
+    },
+    {
+      "id": "OL16308405W",
+      "original": "The undercover economist",
+      "before": "卧底经济学家",
+      "after": "卧底经济学",
+      "method": "reference"
+    },
+    {
+      "id": "OL8702048W",
+      "original": "Master and Commander",
+      "before": "大师与指挥官",
+      "after": "怒海争锋",
+      "method": "reference"
+    },
+    {
+      "id": "OL17356252W",
+      "original": "When Breath Becomes Air",
+      "before": "当呼吸变成空气",
+      "after": "当呼吸化为空气",
+      "method": "reference"
+    },
+    {
+      "id": "OL1088568W",
+      "original": "The conquest of happiness",
+      "before": "征服幸福",
+      "after": "幸福之路",
+      "method": "reference"
+    },
+    {
+      "id": "OL19749222W",
+      "original": "Lost in math",
+      "before": "迷失在数学中",
+      "after": "迷失在数学之美中",
+      "method": "reference"
+    },
+    {
+      "id": "OL2635835W",
+      "original": "The fabric of reality",
+      "before": "现实的结构",
+      "after": "真实世界的脉络",
+      "method": "reference"
+    },
+    {
+      "id": "OL33377430W",
+      "original": "No bullshit guide to math and physics",
+      "before": "没有废话的数学和物理指南",
+      "after": "数学与物理直通指南",
+      "method": "reference"
+    },
+    {
+      "id": "OL17801248W",
+      "original": "Walkaway",
+      "before": "走开",
+      "after": "出走者",
+      "method": "reference"
+    },
+    {
+      "id": "OL22116961W",
+      "original": "The Bobiverse",
+      "before": "鲍比宇宙",
+      "after": "鲍勃宇宙",
+      "method": "reference"
+    },
+    {
+      "id": "OL42415680W",
+      "original": "Abundance",
+      "before": "丰富",
+      "after": "富足",
+      "method": "reference"
+    },
+    {
+      "id": "OL17881333W",
+      "original": "Becoming Steve Jobs",
+      "before": "成为史蒂夫·乔布斯",
+      "after": "成为乔布斯",
+      "method": "reference"
+    },
+    {
+      "id": "OL15688711W",
+      "original": "Bloodlands",
+      "before": "血地",
+      "after": "血色大地",
+      "method": "reference"
+    },
+    {
+      "id": "OL16800608W",
+      "original": "Wool",
+      "before": "羊毛",
+      "after": "羊毛记",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL27161382M"
+    },
+    {
+      "id": "OL76825W",
+      "original": "Inquiry into the nature and causes of the wealth of nations",
+      "before": "探究国家财富的性质和原因",
+      "after": "国富论",
+      "method": "reference"
+    },
+    {
+      "id": "OL16919849W",
+      "original": "In search of stupidity",
+      "before": "寻找愚蠢",
+      "after": "软件业的愚蠢历史",
+      "method": "reference"
+    },
+    {
+      "id": "OL28961721W",
+      "original": "Build Your Own Lisp",
+      "before": "构建你自己的 Lisp",
+      "after": "动手构建Lisp",
+      "method": "reference"
+    },
+    {
+      "id": "OL16215318W",
+      "original": "The tangled Web",
+      "before": "错综复杂的网",
+      "after": "纠缠的网络：浏览器安全指南",
+      "method": "reference"
+    },
+    {
+      "id": "OL17716925W",
+      "original": "The Long Way to a Small, Angry Planet",
+      "before": "通往愤怒小星球的漫漫长路",
+      "after": "前往愤怒小行星的漫漫旅程",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL60511210M"
+    },
+    {
+      "id": "OL17400W",
+      "original": "The City and the Stars",
+      "before": "城市与星星",
+      "after": "城市与群星",
+      "method": "reference"
+    },
+    {
+      "id": "OL81649W",
+      "original": "Blue Mars",
+      "before": "蓝色火星",
+      "after": "蓝火星",
+      "method": "reference"
+    },
+    {
+      "id": "OL16506093W",
+      "original": "Scala for the impatient",
+      "before": "Scala 适合不耐烦的人",
+      "after": "快学Scala",
+      "method": "reference"
+    },
+    {
+      "id": "OL16994864W",
+      "original": "Linkers and loaders",
+      "before": "链接器和加载器",
+      "after": "链接器与加载器",
+      "method": "reference"
+    },
+    {
+      "id": "OL3817313W",
+      "original": "The underground history of American education",
+      "before": "美国教育的地下历史",
+      "after": "美国教育的隐秘历史",
+      "method": "reference"
+    },
+    {
+      "id": "OL16488713W",
+      "original": "Coming apart",
+      "before": "分开",
+      "after": "分裂的美国",
+      "method": "reference"
+    },
+    {
+      "id": "OL8955989W",
+      "original": "C# in Depth",
+      "before": "C# 深入探讨",
+      "after": "深入理解C#",
+      "method": "reference"
+    },
+    {
+      "id": "OL16521512W",
+      "original": "Addiction by design",
+      "before": "故意上瘾",
+      "after": "上瘾设计",
+      "method": "reference"
+    },
+    {
+      "id": "OL20024858W",
+      "original": "Why greatness cannot be planned",
+      "before": "为什么伟大不能计划",
+      "after": "为什么伟大不能被计划",
+      "method": "reference"
+    },
+    {
+      "id": "OL16240171W",
+      "original": "The charisma myth",
+      "before": "魅力神话",
+      "after": "魅力的秘密",
+      "method": "reference"
+    },
+    {
+      "id": "OL2071377W",
+      "original": "Dying Earth - Baen",
+      "before": "垂死的地球 - 巴恩",
+      "after": "垂死的地球",
+      "method": "reference"
+    },
+    {
+      "id": "OL27257W",
+      "original": "Virtual light",
+      "before": "虚拟光",
+      "after": "虚拟之光",
+      "method": "reference"
+    },
+    {
+      "id": "OL16499934W",
+      "original": "The garbage collection handbook",
+      "before": "垃圾收集手册",
+      "after": "垃圾回收算法手册",
+      "method": "reference"
+    },
+    {
+      "id": "OL7159231W",
+      "original": "Ignition!",
+      "before": "点火！",
+      "after": "点火！液体火箭推进剂趣史",
+      "method": "reference"
+    },
+    {
+      "id": "OL24141622W",
+      "original": "Writing A Compiler In Go",
+      "before": "用 Go 编写编译器",
+      "after": "用Go语言实现编译器",
+      "method": "reference"
+    },
+    {
+      "id": "OL15842718W",
+      "original": "Failure is not an option",
+      "before": "失败不是一种选择",
+      "after": "绝不放弃：阿波罗飞行控制官回忆录",
+      "method": "reference"
+    },
+    {
+      "id": "OL16184230W",
+      "original": "The willpower instinct",
+      "before": "意志力本能",
+      "after": "自控力",
+      "method": "reference"
+    },
+    {
+      "id": "OL4774640W",
+      "original": "Programmers at work",
+      "before": "工作中的程序员",
+      "after": "编程大师访谈录",
+      "method": "reference"
+    },
+    {
+      "id": "OL71072W",
+      "original": "The Screwtape Letters",
+      "before": "螺丝带字母",
+      "after": "魔鬼家书",
+      "method": "reference"
+    },
+    {
+      "id": "OL19955015W",
+      "original": "How will you measure your life?",
+      "before": "你将如何衡量你的人生？",
+      "after": "你要如何衡量你的人生",
+      "method": "reference"
+    },
+    {
+      "id": "OL1961811W",
+      "original": "Romance of the three kingdoms",
+      "before": "三个王国的浪漫",
+      "after": "三国演义",
+      "method": "reference"
+    },
+    {
+      "id": "OL17705254W",
+      "original": "A genealogy of morals",
+      "before": "道德谱系",
+      "after": "道德的谱系",
+      "method": "reference"
+    },
+    {
+      "id": "OL15909064W",
+      "original": "Why the West Rules - For Now",
+      "before": "为什么西方统治——目前",
+      "after": "西方将主宰多久",
+      "method": "reference"
+    },
+    {
+      "id": "OL17080845W",
+      "original": "The Life-Changing Magic of Tidying Up",
+      "before": "改变生活的整理魔法",
+      "after": "怦然心动的人生整理魔法",
+      "method": "reference"
+    },
+    {
+      "id": "OL17801704W",
+      "original": "The machinery of life - 2. ed.",
+      "before": "生命的机器 - 2. ed。",
+      "after": "生命的分子机器",
+      "method": "reference"
+    },
+    {
+      "id": "OL17912167W",
+      "original": "Serious Cryptography",
+      "before": "严肃的密码学",
+      "after": "严肃的密码学：实用现代加密指南",
+      "method": "reference"
+    },
+    {
+      "id": "OL71037W",
+      "original": "The Lion, the Witch and the Wardrobe",
+      "before": "狮子、女巫和魔衣橱",
+      "after": "狮子, 女巫和魔衣橱",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL26875347M"
+    },
+    {
+      "id": "OL3153829W",
+      "original": "Reasons and Persons",
+      "before": "原因和人物",
+      "after": "理与人",
+      "method": "reference"
+    },
+    {
+      "id": "OL35287285W",
+      "original": "The Order of Time",
+      "before": "时间的顺序",
+      "after": "时间的秩序",
+      "method": "reference"
+    },
+    {
+      "id": "OL9274702W",
+      "original": "The Rails way",
+      "before": "铁路方式",
+      "after": "Rails开发之道",
+      "method": "reference"
+    },
+    {
+      "id": "OL15828509W",
+      "original": "Thinking in Java",
+      "before": "用Java思考",
+      "after": "Java编程思想",
+      "method": "reference"
+    },
+    {
+      "id": "OL679333W",
+      "original": "Neverwhere",
+      "before": "无处可去",
+      "after": "乌有乡",
+      "method": "reference"
+    },
+    {
+      "id": "OL159642W",
+      "original": "Red Storm Rising",
+      "before": "红色风暴崛起",
+      "after": "红色风暴",
+      "method": "reference"
+    },
+    {
+      "id": "OL19542983W",
+      "original": "Accelerate",
+      "before": "加速",
+      "after": "加速：精益软件与DevOps的科学",
+      "method": "reference"
+    },
+    {
+      "id": "OL62189W",
+      "original": "Self-reliance",
+      "before": "自力更生",
+      "after": "自立",
+      "method": "reference"
+    },
+    {
+      "id": "OL5857777W",
+      "original": "Revolution in the valley",
+      "before": "山谷里的革命",
+      "after": "硅谷革命",
+      "method": "reference"
+    },
+    {
+      "id": "OL13844288W",
+      "original": "Street-fighting mathematics",
+      "before": "街头斗殴数学",
+      "after": "街头数学：估算与解题的艺术",
+      "method": "reference"
+    },
+    {
+      "id": "OL17192139W",
+      "original": "Invent your Own Computer Games with Python",
+      "before": "用Python发明你自己的电脑游戏",
+      "after": "Python游戏编程入门",
+      "method": "reference"
+    },
+    {
+      "id": "OL76836W",
+      "original": "Digital Fortress",
+      "before": "数字堡垒",
+      "after": "数字城堡",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL32141786M"
+    },
+    {
+      "id": "OL16801340W",
+      "original": "How to Create a Mind",
+      "before": "如何创造心灵",
+      "after": "如何创造智能",
+      "method": "reference"
+    },
+    {
+      "id": "OL17832702W",
+      "original": "Probabilistic Graphical Models",
+      "before": "概率图形模型",
+      "after": "概率图模型",
+      "method": "reference"
+    },
+    {
+      "id": "OL3294011W",
+      "original": "Against the gods",
+      "before": "反对诸神",
+      "after": "与天为敌：风险探索传奇",
+      "method": "reference"
+    },
+    {
+      "id": "OL1925362W",
+      "original": "The Electric Kool-Aid Acid Test",
+      "before": "电动酷爱酸测试",
+      "after": "酸性酷爱测试",
+      "method": "reference"
+    },
+    {
+      "id": "OL20023971W",
+      "original": "The secret of our success",
+      "before": "我们成功的秘诀",
+      "after": "人类成功的秘密",
+      "method": "reference"
+    },
+    {
+      "id": "OL3289628W",
+      "original": "The fourth turning",
+      "before": "第四转",
+      "after": "第四次转折",
+      "method": "reference"
+    },
+    {
+      "id": "OL17276241W",
+      "original": "How Google Works",
+      "before": "谷歌如何运作",
+      "after": "重新定义公司",
+      "method": "reference"
+    },
+    {
+      "id": "OL5756124W",
+      "original": "Head first Java",
+      "before": "首先了解 Java",
+      "after": "Head First Java",
+      "method": "reference"
+    },
+    {
+      "id": "OL3472215W",
+      "original": "Reminiscences of a stock operator",
+      "before": "股票经营者的回忆",
+      "after": "股票大作手回忆录",
+      "method": "reference"
+    },
+    {
+      "id": "OL2704212W",
+      "original": "Compiling with Continuations",
+      "before": "使用延续进行编译",
+      "after": "基于续延的编译",
+      "method": "reference"
+    },
+    {
+      "id": "OL117555W",
+      "original": "The Puzzle Palace",
+      "before": "拼图宫殿",
+      "after": "密码宫殿",
+      "method": "reference"
+    },
+    {
+      "id": "OL16050250W",
+      "original": "Calvin and Hobbes",
+      "before": "卡尔文和霍布斯",
+      "after": "卡尔文与霍布斯",
+      "method": "reference"
+    },
+    {
+      "id": "OL19730495W",
+      "original": "The DevOps handbook",
+      "before": "DevOps 手册",
+      "after": "DevOps实践指南",
+      "method": "reference"
+    },
+    {
+      "id": "OL489421W",
+      "original": "Bird by Bird",
+      "before": "鸟接鸟",
+      "after": "一只鸟接着一只鸟",
+      "method": "reference"
+    },
+    {
+      "id": "OL32732284W",
+      "original": "Predictably irrational by Dan Ariely",
+      "before": "《可预见的非理性》丹·艾瑞里 (Dan Ariely)",
+      "after": "怪诞行为学",
+      "method": "reference"
+    },
+    {
+      "id": "OL76487W",
+      "original": "The Man Who Was Thursday",
+      "before": "星期四的人",
+      "after": "星期四是个什么人",
+      "method": "reference"
+    },
+    {
+      "id": "OL16998917W",
+      "original": "Universal principles of design",
+      "before": "设计的通用原则",
+      "after": "设计的通用法则",
+      "method": "reference"
+    },
+    {
+      "id": "OL18108064W",
+      "original": "Can't Hurt Me",
+      "before": "不能伤害我",
+      "after": "我，刀枪不入",
+      "method": "reference"
+    },
+    {
+      "id": "OL3940957W",
+      "original": "Understanding The Linux Kernel",
+      "before": "了解Linux内核",
+      "after": "深入理解Linux内核",
+      "method": "reference"
+    },
+    {
+      "id": "OL1816386W",
+      "original": "Why Zebras Don't Get Ulcers",
+      "before": "为什么斑马不会得溃疡",
+      "after": "为什么斑马不得胃溃疡",
+      "method": "reference"
+    },
+    {
+      "id": "OL266158W",
+      "original": "The Wisdom of Insecurity",
+      "before": "不安全感的智慧",
+      "after": "心之道",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL26970520M"
+    },
+    {
+      "id": "OL15955452W",
+      "original": "Beginning Ruby",
+      "before": "开始红宝石",
+      "after": "开始Ruby",
+      "method": "terminology"
+    },
+    {
+      "id": "OL59858W",
+      "original": "The Lathe of Heaven",
+      "before": "天堂车床",
+      "after": "天钧",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL57643904M"
+    },
+    {
+      "id": "OL20010115W",
+      "original": "Prisoners of geography",
+      "before": "地理的囚徒",
+      "after": "用十张地图看懂全球政经局势",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL27199216M"
+    },
+    {
+      "id": "OL14873289W",
+      "original": "Python Cookbook",
+      "before": "Python 食谱",
+      "after": "Python 编程实例",
+      "method": "terminology"
+    },
+    {
+      "id": "OL7949288W",
+      "original": "Simply Scheme",
+      "before": "简单的计划",
+      "after": "轻松学Scheme",
+      "method": "reference"
+    },
+    {
+      "id": "OL34391195W",
+      "original": "Zero To Production In Rust",
+      "before": "Rust 的零生产",
+      "after": "从零到上线：Rust后端开发",
+      "method": "reference"
+    },
+    {
+      "id": "OL25331893W",
+      "original": "Rust for Rustaceans",
+      "before": "Rustaceans 的 Rust",
+      "after": "Rust进阶编程",
+      "method": "reference"
+    },
+    {
+      "id": "OL7973273W",
+      "original": "The Devil's Dictionary",
+      "before": "恶魔词典",
+      "after": "魔鬼辞典",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL33026696M"
+    },
+    {
+      "id": "OL8325694W",
+      "original": "The Haskell School of Expression",
+      "before": "哈斯克尔表达学派",
+      "after": "Haskell表达之道",
+      "method": "reference"
+    },
+    {
+      "id": "HBerlang-in-anger",
+      "original": "Erlang in Anger",
+      "before": "愤怒的二郎",
+      "after": "Erlang生产实战",
+      "method": "reference"
+    },
+    {
+      "id": "OL453739W",
+      "original": "Men at Arms",
+      "before": "武装人员",
+      "after": "碟形世界特警队. 2",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL40250751M"
+    },
+    {
+      "id": "OL24813786W",
+      "original": "Rust in Action",
+      "before": "Rust 的实际应用",
+      "after": "Rust实战",
+      "method": "reference"
+    },
+    {
+      "id": "OL20306541W",
+      "original": "Common Lisp Recipes",
+      "before": "Common Lisp 食谱",
+      "after": "Common Lisp编程实例",
+      "method": "reference"
+    },
+    {
+      "id": "OL16555059W",
+      "original": "Clojure in action",
+      "before": "Clojure 的实际应用",
+      "after": "Clojure实战",
+      "method": "reference"
+    },
+    {
+      "id": "OL46883W",
+      "original": "Prey",
+      "before": "猎物",
+      "after": "奈米猎杀",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL23039904M"
+    },
+    {
+      "id": "OL46108W",
+      "original": "The End of Eternity",
+      "before": "永恒的终结",
+      "after": "阿西莫夫 : 永恒的终结",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL27169478M"
+    },
+    {
+      "id": "OL21177W",
+      "original": "Wuthering Heights",
+      "before": "呼啸山庄",
+      "after": "呼啸山庄 : 权威全译插图典藏版",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL39466939M"
+    },
+    {
+      "id": "OL138052W",
+      "original": "Alice's Adventures in Wonderland",
+      "before": "爱丽丝梦游仙境",
+      "after": "爱丽丝漫游奇境记",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL49950563M"
+    },
+    {
+      "id": "OL59733W",
+      "original": "The Door into Summer",
+      "before": "夏天之门",
+      "after": "夏之门",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL26318640M"
+    },
+    {
+      "id": "OL1636262W",
+      "original": "The Phantom Tollbooth",
+      "before": "幽灵收费站",
+      "after": "神奇的收费亭",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL26850445M"
+    },
+    {
+      "id": "OL27821848W",
+      "original": "Rust Atomics and Locks",
+      "before": "Rust 原子和锁",
+      "after": "Rust原子操作与锁",
+      "method": "reference"
+    },
+    {
+      "id": "OL471932W",
+      "original": "The Murder of Roger Ackroyd",
+      "before": "罗杰·艾克罗伊德谋杀案",
+      "after": "罗杰疑案",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL42872999M"
+    },
+    {
+      "id": "OL465360W",
+      "original": "Where the Red Fern Grows",
+      "before": "红蕨生长的地方",
+      "after": "红色羊齿草的故乡",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL22909640M"
+    },
+    {
+      "id": "OL5976341W",
+      "original": "Better",
+      "before": "更好",
+      "after": "医生的精进",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL35256810M"
+    },
+    {
+      "id": "OL20157508W",
+      "original": "Invisible Women",
+      "before": "隐形女人",
+      "after": "看不见的女性",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL62698653M"
+    },
+    {
+      "id": "OL18139176W",
+      "original": "Educated",
+      "before": "受过教育",
+      "after": "垃圾场长大的自学人生",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL49907092M"
+    },
+    {
+      "id": "OL23990536W",
+      "original": "Elements of Clojure",
+      "before": "Clojure 元素",
+      "after": "Clojure核心要素",
+      "method": "reference"
+    },
+    {
+      "id": "OL19870W",
+      "original": "The Jungle Book",
+      "before": "丛林之书",
+      "after": "森林王子",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL28692941M"
+    },
+    {
+      "id": "OL404040W",
+      "original": "The red book =",
+      "before": "红宝书=",
+      "after": "红书",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL37853004M"
+    },
+    {
+      "id": "OL5781992W",
+      "original": "The Kite Runner",
+      "before": "追风筝的人",
+      "after": "追风筝的孩子",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL57897103M"
+    },
+    {
+      "id": "OL2745965W",
+      "original": "High-Rise",
+      "before": "高层建筑",
+      "after": "摩天楼",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL62345011M"
+    },
+    {
+      "id": "OL20295263W",
+      "original": "Living Clojure",
+      "before": "生活 Clojure",
+      "after": "Clojure实用开发",
+      "method": "reference"
+    },
+    {
+      "id": "OL2965102W",
+      "original": "The Curious Incident of the Dog in the Night-Time",
+      "before": "深夜狗离奇事件",
+      "after": "深夜小狗神秘习题",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL39487464M"
+    },
+    {
+      "id": "OL16239762W",
+      "original": "Gone Girl",
+      "before": "消失的爱人",
+      "after": "控制",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL28866264M"
+    },
+    {
+      "id": "OL17797130W",
+      "original": "A Gentleman in Moscow",
+      "before": "莫斯科的绅士",
+      "after": "莫斯科绅士",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL35092412M"
+    },
+    {
+      "id": "OL1822313W",
+      "original": "Tuesdays with Morrie",
+      "before": "周二与莫里",
+      "after": "相约星期二",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL49812455M"
+    },
+    {
+      "id": "OL24217656W",
+      "original": "The Code Breaker",
+      "before": "密码破解者",
+      "after": "解码者",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL59766992M"
+    },
+    {
+      "id": "OL1892622W",
+      "original": "The Universe in a Nutshell",
+      "before": "宇宙简而言之",
+      "after": "果壳中的宇宙",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL26915145M"
+    },
+    {
+      "id": "OL20591720W",
+      "original": "The Haskell School of Music",
+      "before": "哈斯克尔音乐学院",
+      "after": "Haskell音乐编程",
+      "method": "reference"
+    },
+    {
+      "id": "OL46917W",
+      "original": "Sphere",
+      "before": "球体",
+      "after": "神秘之球",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL39479396M"
+    },
+    {
+      "id": "OL46913W",
+      "original": "Congo",
+      "before": "刚果",
+      "after": "刚果惊魂",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL31975979M"
+    },
+    {
+      "id": "OL82586W",
+      "original": "Harry Potter and the Deathly Hallows",
+      "before": "哈利·波特与死亡圣器",
+      "after": "哈利波特与死亡圣器",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL61091398M"
+    },
+    {
+      "id": "OL17754303W",
+      "original": "The Democracy Project",
+      "before": "民主计划",
+      "after": "为什么上街头？",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL49228303M"
+    },
+    {
+      "id": "OL17163917W",
+      "original": "Go Set A Watchman",
+      "before": "去设置一个看守人",
+      "after": "设立守望者",
+      "method": "reference"
+    },
+    {
+      "id": "OL66544W",
+      "original": "Persuasion",
+      "before": "说服",
+      "after": "劝导",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL27858230M"
+    },
+    {
+      "id": "OL106081W",
+      "original": "The Quiet American",
+      "before": "安静的美国人",
+      "after": "沉静的美国人",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL59664439M"
+    },
+    {
+      "id": "OL18139175W",
+      "original": "How Democracies Die",
+      "before": "民主如何消亡",
+      "after": "民主国家如何死亡",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL47308224M"
+    },
+    {
+      "id": "OL453743W",
+      "original": "Feet of Clay",
+      "before": "泥足",
+      "after": "另有隐情",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL40296594M"
+    },
+    {
+      "id": "OL1846076W",
+      "original": "The Giver",
+      "before": "给予者",
+      "after": "记忆受领员",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL32111740M"
+    },
+    {
+      "id": "OL9061088W",
+      "original": "Successful Lisp",
+      "before": "成功的 Lisp",
+      "after": "Lisp编程成功之道",
+      "method": "reference"
+    },
+    {
+      "id": "OL27479W",
+      "original": "The Two Towers",
+      "before": "两座塔",
+      "after": "魔戒",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL13100881M"
+    },
+    {
+      "id": "OL8273419W",
+      "original": "The Ruby Way",
+      "before": "红宝石之路",
+      "after": "Ruby之路",
+      "method": "terminology"
+    },
+    {
+      "id": "OL2024372W",
+      "original": "LISP",
+      "before": "语言信息服务程序",
+      "after": "Lisp程序设计",
+      "method": "reference"
+    },
+    {
+      "id": "OL19542941W",
+      "original": "Get Programming with Haskell",
+      "before": "使用 Haskell 进行编程",
+      "after": "Haskell编程入门",
+      "method": "reference"
+    },
+    {
+      "id": "OL16808575W",
+      "original": "Zealot",
+      "before": "狂热者",
+      "after": "革命分子耶稣",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL27171055M"
+    },
+    {
+      "id": "OL453684W",
+      "original": "The Fifth Elephant",
+      "before": "第五只大象",
+      "after": "碟形世界特警队. 5",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL40233890M"
+    },
+    {
+      "id": "OL19546537W",
+      "original": "The Little Elixir & OTP Guidebook",
+      "before": "小灵丹妙药和 OTP 指南",
+      "after": "Elixir与OTP入门指南",
+      "method": "reference"
+    },
+    {
+      "id": "OL875437W",
+      "original": "The Perks of Being a Wallflower",
+      "before": "壁花的好处",
+      "after": "壁花少年",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL51750718M"
+    },
+    {
+      "id": "OL453727W",
+      "original": "Jingo",
+      "before": "金戈",
+      "after": "放马过来",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL40233923M"
+    },
+    {
+      "id": "OL1230613W",
+      "original": "L’étranger",
+      "before": "陌生人",
+      "after": "局外人",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL37851539M"
+    },
+    {
+      "id": "OL263676W",
+      "original": "When Things Fall Apart",
+      "before": "当事情崩溃时",
+      "after": "当生命陷落时",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL23059480M"
+    },
+    {
+      "id": "OL7095112W",
+      "original": "The Book of Tea",
+      "before": "茶经",
+      "after": "茶之书",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL60651403M"
+    },
+    {
+      "id": "OL81629W",
+      "original": "The Green Mile",
+      "before": "绿色英里",
+      "after": "绿色奇迹",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL23103893M"
+    },
+    {
+      "id": "OL82548W",
+      "original": "Harry Potter and the Order of the Phoenix",
+      "before": "哈利·波特与凤凰社",
+      "after": "哈利波特与凤凰社",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL60356372M"
+    },
+    {
+      "id": "OL19545755W",
+      "original": "Functional Web Development with Elixir, OTP, and Phoenix",
+      "before": "使用 Elixir、OTP 和 Phoenix 进行功能性 Web 开发",
+      "after": "使用Elixir、OTP与Phoenix进行函数式Web开发",
+      "method": "reference"
+    },
+    {
+      "id": "OL27079W",
+      "original": "Bridge to Terabithia",
+      "before": "通往特雷比西亚的桥梁",
+      "after": "通往特雷比西亚的桥",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL47806704M"
+    },
+    {
+      "id": "OL45793W",
+      "original": "Charlie and the Great Glass Elevator",
+      "before": "查理和大玻璃电梯",
+      "after": "查理和大玻璃升降机",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL27932069M"
+    },
+    {
+      "id": "OL46368W",
+      "original": "The Complete Robot",
+      "before": "完整的机器人",
+      "after": "阿西莫夫: 机器人短篇全集",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL39474477M"
+    },
+    {
+      "id": "OL5850235W",
+      "original": "Country driving",
+      "before": "乡村驾驶",
+      "after": "寻路中国",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL51162384M"
+    },
+    {
+      "id": "OL24950880W",
+      "original": "Learning Go",
+      "before": "学习围棋",
+      "after": "Go语言学习指南",
+      "method": "reference"
+    },
+    {
+      "id": "OL2935802W",
+      "original": "Advanced Windows",
+      "before": "高级窗口",
+      "after": "高级Windows",
+      "method": "terminology"
+    },
+    {
+      "id": "OL275915W",
+      "original": "Secrets of the Millionaire Mind",
+      "before": "百万富翁心灵的秘密",
+      "after": "有钱人想的和你不一样",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL23071912M"
+    },
+    {
+      "id": "OL29912140W",
+      "original": "Moving Forth - Internals and TTL Processor",
+      "before": "继续前进 - 内部结构和 TTL 处理器",
+      "after": "继续Forth - 内部结构和 TTL 处理器",
+      "method": "terminology"
+    },
+    {
+      "id": "OL19542603W",
+      "original": "Getting Clojure",
+      "before": "获取 Clojure",
+      "after": "理解Clojure",
+      "method": "reference"
+    },
+    {
+      "id": "OL36482223W",
+      "original": "Elixir in Action, Third Edition",
+      "before": "Elixir 行动，第三版",
+      "after": "Elixir实战：第3版",
+      "method": "reference"
+    },
+    {
+      "id": "OL51117W",
+      "original": "MAIN STREET",
+      "before": "主街",
+      "after": "大街",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL61031695M"
+    },
+    {
+      "id": "OL2680436W",
+      "original": "When Nietzsche Wept",
+      "before": "当尼采哭泣时",
+      "after": "当尼采哭泣",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL22993464M"
+    },
+    {
+      "id": "OL17823897W",
+      "original": "The Woman Who Smashed Codes",
+      "before": "打破密码的女人",
+      "after": "密码女王",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL53777176M"
+    },
+    {
+      "id": "OL78359W",
+      "original": "A tree grows in Brooklyn",
+      "before": "布鲁克林长着一棵树",
+      "after": "布鲁克林有棵树",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL27742476M"
+    },
+    {
+      "id": "OL14908941W",
+      "original": "Mockingjay",
+      "before": "嘲笑鸟",
+      "after": "自由幻梦",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL61304813M"
+    },
+    {
+      "id": "OL81634W",
+      "original": "Misery",
+      "before": "痛苦",
+      "after": "头号书迷",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL38567453M"
+    },
+    {
+      "id": "OL63985W",
+      "original": "The Legend of Sleepy Hollow",
+      "before": "断头谷传说",
+      "after": "空心夜传奇",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL35147311M"
+    },
+    {
+      "id": "OL76835W",
+      "original": "Deception Point",
+      "before": "欺骗点",
+      "after": "骗局",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL23080303M"
+    },
+    {
+      "id": "OL46472W",
+      "original": "The Absolutely True Diary of a Part-Time Indian",
+      "before": "一个兼职印度人的绝对真实日记",
+      "after": "一个印第安少年的超真实日记",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL27115067M"
+    },
+    {
+      "id": "OL9654640W",
+      "original": "Forth on the Atari",
+      "before": "雅达利 (Atari) 上的前进",
+      "after": "Atari上的Forth编程",
+      "method": "reference"
+    },
+    {
+      "id": "OL151411W",
+      "original": "Alice's Adventures in Wonderland / Through the Looking Glass",
+      "before": "爱丽丝梦游仙境/爱丽丝镜中奇遇记",
+      "after": "爱丽丝漫游奇境",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL27750030M"
+    },
+    {
+      "id": "OL453852W",
+      "original": "Thud!",
+      "before": "砰！",
+      "after": "碟形世界特警队. 7",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL40233894M"
+    },
+    {
+      "id": "OL12795W",
+      "original": "O Pioneers!",
+      "before": "先驱们啊！",
+      "after": "哦，先驱！",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL35147302M"
+    },
+    {
+      "id": "OL547745W",
+      "original": "Bridget Jones's Diary",
+      "before": "布里吉特·琼斯的日记",
+      "after": "BJ单身日记",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL27733340M"
+    },
+    {
+      "id": "OL5731542W",
+      "original": "Half of a Yellow Sun",
+      "before": "半个黄日",
+      "after": "半轮黄日",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL53495859M"
+    },
+    {
+      "id": "OL53168W",
+      "original": "The Celestine Prophecy - An Adventure",
+      "before": "塞莱斯廷预言 - 一次冒险",
+      "after": "塞莱斯廷预言",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL22970843M"
+    },
+    {
+      "id": "OL8167652W",
+      "original": "Ruby cookbook",
+      "before": "Ruby 食谱",
+      "after": "Ruby 编程实例",
+      "method": "terminology"
+    },
+    {
+      "id": "OL19547074W",
+      "original": "Metaprogramming Elixir",
+      "before": "元编程灵丹妙药",
+      "after": "Elixir元编程",
+      "method": "reference"
+    },
+    {
+      "id": "OL483385W",
+      "original": "Stuart Little",
+      "before": "斯图尔特·利特尔",
+      "after": "精灵鼠小弟",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL28234786M"
+    },
+    {
+      "id": "OL16419954W",
+      "original": "Among Others",
+      "before": "除其他外",
+      "after": "我不属于他们",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL60128619M"
+    },
+    {
+      "id": "OL273080W",
+      "original": "To your scattered bodies go",
+      "before": "走向你分散的身体",
+      "after": "去吧，散落的躯壳",
+      "method": "reference"
+    },
+    {
+      "id": "OL612496W",
+      "original": "The Songlines",
+      "before": "歌谣",
+      "after": "歌之版图",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL47308195M"
+    },
+    {
+      "id": "OL2790328W",
+      "original": "Third Culture",
+      "before": "第三文化",
+      "after": "第三种文化",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL53742393M"
+    },
+    {
+      "id": "OL1230715W",
+      "original": "La Peste",
+      "before": "拉佩斯特",
+      "after": "鼠疫",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL22941204M"
+    },
+    {
+      "id": "OL8328808W",
+      "original": "The Calculus Lifesaver",
+      "before": "微积分救星",
+      "after": "普林斯顿微积分读本(修订版)",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL37809245M"
+    },
+    {
+      "id": "OL78871W",
+      "original": "Twelve years a slave",
+      "before": "十二年奴隶",
+      "after": "为奴十二载",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL27159744M"
+    },
+    {
+      "id": "OL16806877W",
+      "original": "Doctor Sleep",
+      "before": "睡眠医生",
+      "after": "长眠医生",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL47684073M"
+    },
+    {
+      "id": "OL25004491W",
+      "original": "Index, A History of the",
+      "before": "索引，历史",
+      "after": "索引，知识的钥匙",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL49652251M"
+    },
+    {
+      "id": "OL18766691W",
+      "original": "Where the Crawdads Sing",
+      "before": "小龙虾歌唱的地方",
+      "after": "沼泽女孩",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL32926555M"
+    },
+    {
+      "id": "OL262477W",
+      "original": "The Return of Sherlock Holmes",
+      "before": "福尔摩斯归来",
+      "after": "归来记",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL46850061M"
+    },
+    {
+      "id": "OL4790146W",
+      "original": "COMMON LISP",
+      "before": "通用语言",
+      "after": "Common Lisp语言",
+      "method": "reference"
+    },
+    {
+      "id": "OL15449W",
+      "original": "The Princess and the Goblin",
+      "before": "公主与妖精",
+      "after": "公主与妖怪",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL37803231M"
+    },
+    {
+      "id": "OL15006629W",
+      "original": "Slaughterhouse-Five, or The Children's Crusade",
+      "before": "五号屠宰场或儿童十字军",
+      "after": "第五号屠宰场",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL22945619M"
+    },
+    {
+      "id": "OL4104934W",
+      "original": "Mister God, This Is Anna",
+      "before": "上帝先生，这是安娜",
+      "after": "安娜在祈祷",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL37784485M"
+    },
+    {
+      "id": "OL17852712W",
+      "original": "Thunderhead",
+      "before": "雷霆头",
+      "after": "杀戒",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL36652789M"
+    },
+    {
+      "id": "OL17200413W",
+      "original": "Revival",
+      "before": "复兴",
+      "after": "重生",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL32042532M"
+    },
+    {
+      "id": "OL472715W",
+      "original": "The Mysterious Affair at Styles",
+      "before": "斯泰尔斯的神秘事件",
+      "after": "史岱尔庄谋杀案",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL23030790M"
+    },
+    {
+      "id": "OL81630W",
+      "original": "The Dead Zone",
+      "before": "死亡地带",
+      "after": "死亡区域",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL27696787M"
+    },
+    {
+      "id": "OL41377253W",
+      "original": "Go Rin No Sho",
+      "before": "快轮之书",
+      "after": "五轮书",
+      "method": "reference"
+    },
+    {
+      "id": "OL19546859W",
+      "original": "Docker in Practice",
+      "before": "Docker 实践",
+      "after": "Docker实践",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL37775374M"
+    },
+    {
+      "id": "OL675688W",
+      "original": "Surfacing",
+      "before": "表面处理",
+      "after": "假象",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL53431861M"
+    },
+    {
+      "id": "OL362685W",
+      "original": "Troilus and Cressida",
+      "before": "特洛伊罗斯与克瑞西达",
+      "after": "脱爱勒斯与克莱西达",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL59792179M"
+    },
+    {
+      "id": "OL1184951W",
+      "original": "Man for Himself",
+      "before": "人为己",
+      "after": "自我的追寻",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL61289594M"
+    },
+    {
+      "id": "OL5285010W",
+      "original": "Object oriented Forth",
+      "before": "面向对象第四",
+      "after": "面向对象的Forth",
+      "method": "reference"
+    },
+    {
+      "id": "OL879428W",
+      "original": "Counterpunch",
+      "before": "反击",
+      "after": "字腔字冲",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL51273901M"
+    },
+    {
+      "id": "OL25774329W",
+      "original": "Hands-On Rust",
+      "before": "动手生锈",
+      "after": "Rust动手实践",
+      "method": "reference"
+    },
+    {
+      "id": "OL17581342W",
+      "original": "The Meat Racket",
+      "before": "肉球拍",
+      "after": "肉Racket",
+      "method": "terminology"
+    },
+    {
+      "id": "OL1643770W",
+      "original": "JavaScript",
+      "before": "JavaScript",
+      "after": "JavaScript权威指南",
+      "method": "published",
+      "source": "https://www.oreilly.com.cn/index.php?func=book&isbn=978-7-111-67722-2"
+    },
+    {
+      "id": "OL71042W",
+      "original": "The Magician's Nephew",
+      "before": "魔术师的侄子",
+      "after": "纳尼亚传奇：魔法师的外甥",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL13061038M"
+    },
+    {
+      "id": "OL25326985W",
+      "original": "Kingdom of Characters",
+      "before": "人物王国",
+      "after": "汉字王国",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL49375346M"
+    },
+    {
+      "id": "OL17332447W",
+      "original": "Smoke gets in your eyes",
+      "before": "烟雾进入你的眼睛",
+      "after": "一个23岁的女孩，决定去火葬场上班",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL62698690M"
+    },
+    {
+      "id": "OL8036957W",
+      "original": "Snow Falling on Cedars",
+      "before": "雪落在雪松上",
+      "after": "雪落香杉树",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL44488331M"
+    },
+    {
+      "id": "OL1868110W",
+      "original": "Stone Butch Blues",
+      "before": "石布奇布鲁斯",
+      "after": "蓝调石墙T",
+      "method": "edition",
+      "source": "https://openlibrary.org/books/OL51687507M"
+    }
+  ],
+  "display_titles_changed_since_previous_release": 500,
+  "previous_commit": "bb92ac291c142dc15e1367e03141f021bbea7bb5",
+  "statuses": {
+    "common": 563,
+    "edited": 389,
+    "machine": 14457,
+    "wiki": 191,
+    "edition": 140,
+    "retained": 26
+  }
+}
