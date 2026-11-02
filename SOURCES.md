@@ -28,6 +28,10 @@
 - 图片按浏览需要联网加载，没有批量打包下载出版封面。图像可能为外文版，不能据此推断具体中文 ISBN 或版次。
 - 详情中保留 [Open Library](https://openlibrary.org/) 的作品入口。
 
+## 项目身份
+
+页面使用 PassionYoungz 在个人蒸馏项目中提供的公开头像和署名，链接到其 [X 主页](https://x.com/PassionYoungz)。头像仅作项目身份展示；书本图标为本项目的 SVG 标识。
+
 ## 项目宣传封面
 
 `docs/assets/cover.png` 是为本项目使用 imagegen 生成的宣传素材，画面使用虚构的无书名装帧，不作为任何书目的真实封面。

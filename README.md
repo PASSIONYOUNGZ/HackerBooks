@@ -39,6 +39,13 @@
 
 </details>
 
+<details>
+<summary>查看筛选菜单</summary>
+
+![统一的筛选下拉框](docs/assets/preview-select.png)
+
+</details>
+
 ## 译名与封面的边界
 
 本次目录快照日期为 **2026-11-02**，并非自动更新的实时榜单。
@@ -78,7 +85,7 @@ python scripts/build.py --check
 
 ```text
 data/                  中文目录、主题、大类与快照元数据
-src/                   HTML 模板、样式、交互脚本和来源说明
+src/                   HTML 模板、样式、交互脚本与自定义下拉框
 scripts/build.py       生成、校验可独立运行的 HTML
 docs/index.html        GitHub Pages 页面，也是可下载的单文件版本
 docs/assets/           项目封面、预览截图和图标

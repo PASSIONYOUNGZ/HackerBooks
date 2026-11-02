@@ -1,5 +1,6 @@
 """Build a self-contained reading room. Standard library only; no network."""
 import argparse
+import base64
 import json
 from pathlib import Path
 
@@ -15,14 +16,12 @@ def build():
     topic_ids = {t['slug'] for t in data['topics']}
     assert all(b.get('cn') and b.get('t') and all(t in topic_ids for t in b['tp']) for b in books)
     assert set().union(*(set(g['topics']) for g in data['groups'])) == topic_ids
-    footer = (ROOT / 'src/footer.html').read_text(encoding='utf-8').replace('<details open>', '<details>')
-    footer = footer.replace('页面内数据及样式均已嵌入，无需联网即可浏览和搜索。', '页面内书目数据及样式均已嵌入，可离线搜索；真实封面需要联网加载。')
-    footer = footer.replace('</ul>', '<li><b>封面</b>：沿用原站封面编号，并从 Open Library 为同作品补充版本封面，可能为外文版本，不表示中文译本封面。图片按需联网加载；缺失或加载失败时显示明确标注的排版占位图。<a href="https://openlibrary.org/dev/docs/api/covers" target="_blank" rel="noopener noreferrer">Open Library 封面服务说明</a>。</li></ul>')
-    footer = footer.replace('</footer>', '<div class="footer-signature"><span>HACKERBOOKS · 中文主题书单</span><a href="https://github.com/PASSIONYOUNGZ/HackerBooks" target="_blank" rel="noopener noreferrer">项目源码 ↗</a><span>STAY CURIOUS. KEEP READING.</span></div></footer>')
     payload = json.dumps(data, ensure_ascii=False, separators=(',', ':')).replace('</', '<\\/')
     html = (ROOT / 'src/index.template.html').read_text(encoding='utf-8')
     replacements = {'__DATA__': payload, '__CSS__': (ROOT / 'src/library.css').read_text(encoding='utf-8'),
-                    '__JS__': (ROOT / 'src/library.js').read_text(encoding='utf-8'), '__FOOTER__': footer}
+                    '__JS__': (ROOT / 'src/library.js').read_text(encoding='utf-8').replace('renderHero();apply();', (ROOT / 'src/selects.js').read_text(encoding='utf-8') + '\nrenderHero();apply();'),
+                    '__LOGO__': (ROOT / 'docs/assets/favicon.svg').read_text(encoding='utf-8'),
+                    '__AVATAR__': 'data:image/jpeg;base64,' + base64.b64encode((ROOT / 'docs/assets/creator-avatar.jpg').read_bytes()).decode('ascii')}
     for key, value in replacements.items():
         html = html.replace(key, value)
     assert not any(key in html for key in replacements), 'Unresolved template token'
