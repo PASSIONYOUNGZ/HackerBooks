@@ -87,7 +87,7 @@ COPY.md                可直接使用的项目介绍与分享文案
 SOURCES.md             数据来源、匹配方式与权利说明
 ```
 
-改动 `src/` 或 `data/` 后重新构建，并将生成的 `docs/index.html` 一起提交。GitHub Pages 从 `main` 分支的 `/docs` 发布，后续推送页面更新后会自动重新部署。
+改动 `src/` 或 `data/` 后重新构建，并将生成的 `docs/index.html` 一起提交。仓库内的 [Pages 工作流](.github/workflows/pages.yml) 会在推送 `main` 时校验生成文件，并将 `/docs` 目录自动发布到 GitHub Pages。
 
 ## 致谢与授权
 
